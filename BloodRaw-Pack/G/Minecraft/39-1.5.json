@@ -99,7 +99,7 @@
 			"brewingStand.png"      : ["Texture", "R/T/B/Brewing/Default.png"],
 			"brewingStand_base.png" : ["Texture", "R/T/B/Brewing/Bottom.png"],
 			
-			"brick.png" : ["Texture", "R/T/B/Bricks.png"],
+			"brick.png" : ["Texture", "R/T/B/Bricks/Default.png"],
 			
 			"cactus_bottom.png" : ["Texture", "R/T/B/Cactus/Bottom.png"],
 			"cactus_side.png"   : ["Texture", "R/T/B/Cactus/Side.png"],
@@ -341,12 +341,12 @@
 			
 			"rose.png": ["Texture", "R/T/B/Flower.png"],
 			
-			"sand.png"            : ["Texture", "R/T/B/Sand.png"],
-			"sandstone_bottom.png": ["Texture", "R/T/B/Sand_Stone.png"],
-			"sandstone_carved.png": ["Texture", "R/T/B/Sand_Stone_Chiseled.png"],
-			"sandstone_side.png"  : ["Texture", "R/T/B/Sand_Stone.png"],
-			"sandstone_smooth.png": ["Texture", "R/T/B/Sand_Stone_Smooth_Side.png"],
-			"sandstone_top.png"   : ["Texture", "R/T/B/Sand_Stone_Smooth.png"],
+			"sand.png"            : ["Texture", "R/T/B/Sand/Default.png"],
+			"sandstone_bottom.png": ["Texture", "R/T/B/Sandstone/Default.png"],
+			"sandstone_carved.png": ["Texture", "R/T/B/Sandstone/Chiseled.png"],
+			"sandstone_side.png"  : ["Texture", "R/T/B/Sandstone/Default.png"],
+			"sandstone_smooth.png": ["Texture", "R/T/B/Sandstone/Smooth.png"],
+			"sandstone_top.png"   : ["Texture", "R/T/B/Sandstone/Top.png"],
 			
 			"sapling.png"       : ["Texture", "R/T/B/Sapling/Oak.png"],
 			"sapling_birch.png" : ["Texture", "R/T/B/Sapling/Birch.png"],
@@ -375,9 +375,9 @@
 			
 			"thinglass_top.png": ["Texture", "R/T/B/Glass/Side.png"],
 			
-			"tnt_bottom.png": ["Texture", "R/T/B/TNT_Bottom.png"],
-			"tnt_side.png"  : ["Texture", "R/T/B/TNT.png"],
-			"tnt_top.png"   : ["Texture", "R/T/B/TNT_Top.png"],
+			"tnt_bottom.png": ["Texture", "R/T/B/Dynamite/Default_Bottom.png"],
+			"tnt_side.png"  : ["Texture", "R/T/B/Dynamite/Default.png"],
+			"tnt_top.png"   : ["Texture", "R/T/B/Dynamite/Default_Top.png"],
 			
 			"torch.png": ["Animation", ["Texture", "R/T/B/Torch.file"], "Fire"],
 			
@@ -607,7 +607,7 @@
 			"minecartChest.png"  : ["Texture", "R/T/I/Minecart/Chest.png"],
 			"minecartFurnace.png": ["Texture", "R/T/I/Minecart/Furnace.png"],
 			"minecartHopper.png" : ["Texture", "R/T/I/Minecart/Hopper.png"],
-			"minecartTnt.png"    : ["Texture", "R/T/I/Minecart/TNT.png"],
+			"minecartTnt.png"    : ["Texture", "R/T/I/Minecart/Dynamite.png"],
 			
 			"monsterPlacer.png"        : ["Texture", "R/T/I/Spawn/Default.png"],
 			"monsterPlacer_overlay.png": ["Texture", "R/T/I/Spawn/Overlay.png"],

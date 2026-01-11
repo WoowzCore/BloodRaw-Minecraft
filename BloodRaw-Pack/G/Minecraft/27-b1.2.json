@@ -13,9 +13,9 @@
 				"0" : {
 					"9" : ["Texture", "R/T/B/Lapis.png"],
 					"10" : ["Texture", "R/T/B/Lapis_Ore.png"],
-					"11" : ["Texture", "R/T/B/Sand_Stone_Smooth.png"],
-					"12" : ["Texture", "R/T/B/Sand_Stone.png"],
-					"13" : ["Texture", "R/T/B/Sand_Stone_Smooth.png"]
+					"11" : ["Texture", "R/T/B/Sandstone/Top.png"],
+					"12" : ["Texture", "R/T/B/Sandstone/Default.png"],
+					"13" : ["Texture", "R/T/B/Sandstone/Default.png"]
 				},
 				"1" : {
 					"7"  : ["Texture", "R/T/B/Wool/Black.file"],

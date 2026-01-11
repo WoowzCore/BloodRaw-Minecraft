@@ -668,9 +668,9 @@
 						"oak_slab_double.png"     : ["Texture", "R/T/B/Planks/Oak_Double.png"],
 						"spruce_slab_double.png"  : ["Texture", "R/T/B/Planks/Spruce_Double.png"],
 						
-						"brick_slab_double.png"           : ["Texture", "R/T/B/Bricks_Double.png"],
-						"red_sandstone_slab_double.png"   : ["Texture", "R/T/B/Sand_Red_Stone_Double.png"],
-						"sandstone_slab_double.png"       : ["Texture", "R/T/B/Sand_Stone_Double.png"],
+						"brick_slab_double.png"           : ["Texture", "R/T/B/Bricks/Double.png"],
+						"red_sandstone_slab_double.png"   : ["Texture", "R/T/B/Sandstone/Red/Double.png"],
+						"sandstone_slab_double.png"       : ["Texture", "R/T/B/Sandstone/Double.png"],
 						"stone_brick_slab_double.png"     : ["Texture", "R/T/B/Stone_Bricks_Double.png"],
 						"cobblestone_slab_double.png"     : ["Texture", "R/T/B/Stone_Cobblestone_Double.png"],
 						"nether_brick_slab_double.png"    : ["Texture", "R/T/B/Nether_Bricks_Double.png"],

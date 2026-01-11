@@ -52,11 +52,11 @@
 					"prismarine_rough.png" : ["Texture", "R/T/B/Prismarine.png"],
 					"sea_lantern.png"      : ["Animation", ["Texture", "R/T/B/Prismarine_Lamp.png"], "Prismarine"],
 					
-					"red_sandstone_bottom.png": ["Texture", "R/T/B/Sand_Red_Stone.png"],
-					"red_sandstone_carved.png": ["Texture", "R/T/B/Sand_Red_Stone_Chiseled.png"],
-					"red_sandstone_normal.png": ["Texture", "R/T/B/Sand_Red_Stone.png"],
-					"red_sandstone_smooth.png": ["Texture", "R/T/B/Sand_Red_Stone_Smooth_Side.png"],
-					"red_sandstone_top.png"   : ["Texture", "R/T/B/Sand_Red_Stone_Smooth.png"],
+					"red_sandstone_bottom.png": ["Texture", "R/T/B/Sandstone/Red/Default.png"],
+					"red_sandstone_carved.png": ["Texture", "R/T/B/Sandstone/Red/Chiseled.png"],
+					"red_sandstone_normal.png": ["Texture", "R/T/B/Sandstone/Red/Default.png"],
+					"red_sandstone_smooth.png": ["Texture", "R/T/B/Sandstone/Red/Smooth.png"],
+					"red_sandstone_top.png"   : ["Texture", "R/T/B/Sandstone/Red/Top.png"],
 				},
 				
 				"entity/": {
