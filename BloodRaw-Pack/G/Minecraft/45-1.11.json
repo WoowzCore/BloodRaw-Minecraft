@@ -104,7 +104,7 @@
 				
 				"shulker_shell.png": [],
 				
-				"totem.png": [],
+				"totem.png": ["Animation", ["Texture", "R/T/I/Totem_Undying.png"], "Totem"],
 				
 				"map_filled.png"         : [],
 				"map_filled_markings.png": [],

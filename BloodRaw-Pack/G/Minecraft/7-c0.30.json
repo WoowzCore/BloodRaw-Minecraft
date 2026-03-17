@@ -86,12 +86,12 @@
 					"4" : ["Texture", "R/T/B/Wool/White.file", [["Multiply", "#FE39FE"]]]
 				},
 				"12" : {
-					"0" : ["Texture", "R/T/B/Flower.png"],
+					"0" : ["Texture", "R/T/B/Flower/Rose.png"],
 					"1" : ["Texture", "R/T/B/Mushroom_Red.png"],
 					"4" : ["Texture", "R/T/B/Wool/White.file", [["Multiply", "#FE399B"]]]
 				},
 				"13" : {
-					"0" : ["Texture", "R/T/B/Flower_Yellow.png"],
+					"0" : ["Texture", "R/T/B/Flower/Dandelion.png"],
 					"1" : ["Texture", "R/T/B/Mushroom.png"],
 					"4" : ["Texture", "R/T/B/Wool/White.file", [["Multiply", "#5E5E5E"]]]
 				},

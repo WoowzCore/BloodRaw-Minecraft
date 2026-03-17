@@ -10,11 +10,11 @@
 	"Files": {
 		"terrain.png": ["Atlas", {
 			"3": {
-				"13": ["Texture", "R/T/B/Lamp.png"]
+				"13": ["Texture", "R/T/B/Lamp/Default_Off.png"]
 			},
 			"4": {
 				"12": ["Texture", "R/T/B/Leaves/Jungle.file"],
-				"13": ["Animation", ["Texture", "R/T/B/Lamp_On.png"], false]
+				"13": ["Animation", ["Texture", "R/T/B/Lamp/Default_On.png"], false]
 			},
 			"5": {
 				"12": ["Texture", "R/T/B/Leaves/Jungle_Solid.file"],

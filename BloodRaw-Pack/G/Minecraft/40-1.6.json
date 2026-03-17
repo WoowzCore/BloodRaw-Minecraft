@@ -231,8 +231,8 @@
 						
 						"pumpkin_stem_connected.png"   : ["Rename", "stem_bent.png"],
 						"pumpkin_stem_disconnected.png": ["Rename", "stem_straight.png"],
-						"melon_stem_connected.png"     : ["Texture", "R/T/B/Stem_Watermelon_Connect.png"],
-						"melon_stem_disconnected.png"  : ["Texture", "R/T/B/Stem_Watermelon.png"],
+						"melon_stem_connected.png"     : ["Texture", "R/T/B/Watermelon/Stem_Connect.png"],
+						"melon_stem_disconnected.png"  : ["Texture", "R/T/B/Watermelon/Stem.png"],
 						
 						"anvil_top_damaged_0.png": ["Rename", "anvil_top.png"],
 						
@@ -254,8 +254,8 @@
 						"hardened_clay_stained_white.png"     : ["Texture", "R/T/B/Terracota/White.file"],
 						"hardened_clay_stained_yellow.png"    : ["Texture", "R/T/B/Terracota/Yellow.file"],
 						
-						"hay_block_top.png" : ["Texture", "R/T/B/Hay_Top.png"],
-						"hay_block_side.png": ["Texture", "R/T/B/Hay.png"],
+						"hay_block_top.png" : ["Texture", "R/T/B/Hay/Top.png"],
+						"hay_block_side.png": ["Texture", "R/T/B/Hay/Default.png"],
 						
 						"piston_top_normal.png": ["Rename", "piston_top.png"],
 						

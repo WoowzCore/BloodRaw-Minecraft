@@ -8,7 +8,7 @@
 			"textures/": {
 				"blocks/": {
 					"bloodraw/": {
-						"grass_side_better.png"        : ["Texture", "R/T/B/Grass/Dirt_Better.png"],
+						"grass_side_better.png"        : ["Texture", "R/T/B/Grass/Dirt_Better.file"],
 						"grass_side_better_overlay.png": ["Texture", "R/T/B/Grass/Dirt_Better_Overlay.png"],
 						"snow_side_better.png"         : ["Texture", "R/T/B/Snow/Dirt_Better.png"],
 						"mycelium_side_better.png"     : ["Texture", "R/T/B/Mycelium/Dirt_Better.png"],

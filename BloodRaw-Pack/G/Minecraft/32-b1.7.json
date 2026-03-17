@@ -11,16 +11,16 @@
 	"Files": {
 		"terrain.png": [ "Atlas", {
 				"5" : {
-					"9" : ["Texture", "R/T/B/Bed_Back.png"]
+					"9" : ["Texture", "R/T/B/Bed/Old_Back.png"]
 				},
 				"6" : {
-					"9" : ["Texture", "R/T/B/Bed_Left.png"]
+					"9" : ["Texture", "R/T/B/Bed/Old_Left.png"]
 				},
 				"7" : {
-					"9" : ["Texture", "R/T/B/Bed_Right.png"]
+					"9" : ["Texture", "R/T/B/Bed/Old_Right.png"]
 				},
 				"8" : {
-					"9" : ["Texture", "R/T/B/Bed_Front.png"]
+					"9" : ["Texture", "R/T/B/Bed/Old_Front.png"]
 				},
 				"10" : {
 					"6" : ["Texture", "R/T/B/Piston/Slime.png"],

@@ -20,16 +20,16 @@
 					"3" : ["Texture", "R/T/B/Leaves/Oak_Solid.file"]
 				},
 				"6" : {
-					"6" : ["Texture", "R/T/B/Pumpkin_Top.png"],
-					"7" : ["Texture", "R/T/B/Pumpkin.png"]
+					"6" : ["Texture", "R/T/B/Pumpkin/Top.png"],
+					"7" : ["Texture", "R/T/B/Pumpkin/Default.png"]
 				},
 				"7" : {
 					"6" : ["Texture", "R/T/B/Nether.png"],
-					"7" : ["Texture", "R/T/B/Pumpkin_Face.png"]
+					"7" : ["Texture", "R/T/B/Pumpkin/Face.png"]
 				},
 				"8" : {
 					"6" : ["Texture", "R/T/B/Soulsand.png"],
-					"7" : ["Animation", ["Texture", "R/T/B/Pumpkin_Face_On.png"], false]
+					"7" : ["Animation", ["Texture", "R/T/B/Pumpkin/Face_On.png"], false]
 				},
 				"9" : {
 					"6" : ["Animation", ["Texture", "R/T/B/Glowstone.png"], false]
@@ -39,7 +39,7 @@
 				}
 			}
 		],
-		"pumpkin.png": ["Texture", "R/T/B/Pumpkin_Face.png"],
+		"pumpkin.png": ["Texture", "R/T/B/Pumpkin/Face.png"],
 		"gui/items.png": [ "Atlas", {
 				"6" : {
 					"4" : ["Texture", "R/T/I/Clock/Old.png"]

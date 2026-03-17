@@ -3,8 +3,6 @@
 	"parent": "block/block",
 	"textures": {
 		"particle": "#dirt",
-		"dirt"    : "blocks/dirt",
-		"top"     : "blocks/farmland_dry",
 		"side"    : "#dirt"
 	},
 	"elements": [

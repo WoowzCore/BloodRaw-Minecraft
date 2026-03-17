@@ -16,7 +16,7 @@
 		}],
 		"gui/items.png": ["Atlas", {
 			"9": {
-				"9" : ["Texture", "R/T/I/Spawn/Default.png"],
+				"9" : ["Animation", ["Texture", "R/T/I/Spawn/Default.png"], false],
 				"10": ["Texture", "R/T/I/Spawn/Overlay.png"]
 			}
 		}]

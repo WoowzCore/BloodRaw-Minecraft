@@ -1,0 +1,12 @@
+{
+	"parent": "block/bloodraw/grass_block",
+	"textures": {
+		"particle": "<[Var1]>",
+		"bottom"  : "<[Var2]>",
+		"top_1"   : "<[Var3]>",
+		"top_2"   : "<[Var4]>",
+		"top_3"   : "<[Var5]>",
+		"side"    : "<[Var6]>",
+		"overlay" : "<[Var7]>"
+	}
+}

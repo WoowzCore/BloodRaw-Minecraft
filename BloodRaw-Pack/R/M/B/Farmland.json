@@ -1,5 +1,5 @@
 {
-	"parent": "block/<[Custom CompareVersion(SelectedVersion, '1.13') >= 0 ? 'template_farmland' : 'farmland']>",
+	"parent": "block/bloodraw/farmland",
 	"textures": {
 		"dirt": "<[Var1]>",
 		"side": "<[Var2]>",

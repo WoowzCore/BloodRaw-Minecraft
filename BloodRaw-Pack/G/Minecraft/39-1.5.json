@@ -78,12 +78,12 @@
 			
 			"beacon.png": ["Animation", ["Texture", "R/T/B/Beacon/Default.png"], "Beacon"],
 			
-			"bed_feet_end.png" : ["Texture", "R/T/B/Bed_Back.png"],
-			"bed_feet_side.png": ["Texture", "R/T/B/Bed_Left.png"],
-			"bed_feet_top.png" : ["Texture", "R/T/B/Bed_Bottom.png"],
-			"bed_head_end.png" : ["Texture", "R/T/B/Bed_Front.png"],
-			"bed_head_side.png": ["Texture", "R/T/B/Bed_Right.png"],
-			"bed_head_top.png" : ["Texture", "R/T/B/Bed.png"],
+			"bed_feet_end.png" : ["Texture", "R/T/B/Bed/Old_Back.png"],
+			"bed_feet_side.png": ["Texture", "R/T/B/Bed/Old_Left.png"],
+			"bed_feet_top.png" : ["Texture", "R/T/B/Bed/Old_Bottom.png"],
+			"bed_head_end.png" : ["Texture", "R/T/B/Bed/Old_Front.png"],
+			"bed_head_side.png": ["Texture", "R/T/B/Bed/Old_Right.png"],
+			"bed_head_top.png" : ["Texture", "R/T/B/Bed/Old.png"],
 			
 			"bedrock.png" : ["Texture", "R/T/B/Bedrock.png"],
 			
@@ -210,7 +210,7 @@
 			"fire_0.png": ["Animation", ["Texture", "R/T/B/Fire.file"], "Fire"],
 			"fire_1.png": ["Animation", ["Texture", "R/T/B/Fire_2.file"], "Fire"],
 			
-			"flower.png": ["Texture", "R/T/B/Flower_Yellow.png"],
+			"flower.png": ["Texture", "R/T/B/Flower/Dandelion.png"],
 			
 			"flowerPot.png": ["Texture", "R/T/B/Pot.png"],
 			
@@ -259,8 +259,8 @@
 			
 			"lightgem.png": ["Animation", ["Texture", "R/T/B/Glowstone.png"], "Glowstone"],
 			
-			"melon_side.png": ["Texture", "R/T/B/Watermelon.png"],
-			"melon_top.png": ["Texture", "R/T/B/Watermelon_Top.png"],
+			"melon_side.png": ["Texture", "R/T/B/Watermelon/Default.png"],
+			"melon_top.png": ["Texture", "R/T/B/Watermelon/Top.png"],
 			
 			"mobSpawner.png": ["Animation", ["Texture", "R/T/B/Spawner.png"], "Lava"],
 			
@@ -307,10 +307,10 @@
 			"potatoes_2.png": ["Texture", "R/T/B/Potato/2.png"],
 			"potatoes_3.png": ["Texture", "R/T/B/Potato/3.png"],
 			
-			"pumpkin_face.png": ["Texture", "R/T/B/Pumpkin_Face.png"],
-			"pumpkin_jack.png": ["Animation", ["Texture", "R/T/B/Pumpkin_Face_On.png"], "Pumpkin"],
-			"pumpkin_side.png": ["Texture", "R/T/B/Pumpkin.png"],
-			"pumpkin_top.png" : ["Texture", "R/T/B/Pumpkin_Top.png"],
+			"pumpkin_face.png": ["Texture", "R/T/B/Pumpkin/Face.png"],
+			"pumpkin_jack.png": ["Animation", ["Texture", "R/T/B/Pumpkin/Face_On.png"], "Pumpkin"],
+			"pumpkin_side.png": ["Texture", "R/T/B/Pumpkin/Default.png"],
+			"pumpkin_top.png" : ["Texture", "R/T/B/Pumpkin/Top.png"],
 			
 			"quartzblock_bottom.png"      : ["Texture", "R/T/B/Quartz/Default.png"],
 			"quartzblock_chiseled.png"    : ["Texture", "R/T/B/Quartz/Chiseled.png"],
@@ -328,8 +328,8 @@
 			"redstoneDust_line.png"         : ["Texture", "R/T/B/Redstone_Dust_Line.file"],
 			"redstoneDust_line_overlay.png" : ["Texture", "R/T/B/Redstone_Dust_Overlay.png"],
 			
-			"redstoneLight.png"    : ["Texture", "R/T/B/Lamp.png"],
-			"redstoneLight_lit.png": ["Animation", ["Texture", "R/T/B/Lamp_On.png"], {"Smooth": true}],
+			"redstoneLight.png"    : ["Texture", "R/T/B/Lamp/Default_Off.png"],
+			"redstoneLight_lit.png": ["Animation", ["Texture", "R/T/B/Lamp/Default_On.png"], {"Smooth": true}],
 			
 			"redtorch.png"    : ["Texture", "R/T/B/Torch_Redstone_Off.png"],
 			"redtorch_lit.png": ["Animation", ["Texture", "R/T/B/Torch_Redstone.png"], "Redstone"],
@@ -339,7 +339,7 @@
 			"repeater.png"    : ["Texture", "R/T/B/Repeater.png"],
 			"repeater_lit.png": ["Texture", "R/T/B/Repeater_On.png"],
 			
-			"rose.png": ["Texture", "R/T/B/Flower.png"],
+			"rose.png": ["Texture", "R/T/B/Flower/Rose.png"],
 			
 			"sand.png"            : ["Texture", "R/T/B/Sand/Default.png"],
 			"sandstone_bottom.png": ["Texture", "R/T/B/Sandstone/Default.png"],
@@ -358,8 +358,8 @@
 			
 			"sponge.png": ["Texture", "R/T/B/Sponge/Default.png"],
 			
-			"stem_bent.png"    : ["Texture", "R/T/B/Stem_Connect.png"],
-			"stem_straight.png": ["Texture", "R/T/B/Stem.png"],
+			"stem_bent.png"    : ["Texture", "R/T/B/Pumpkin/Stem_Connect.png"],
+			"stem_straight.png": ["Texture", "R/T/B/Pumpkin/Stem.png"],
 			
 			"stone.png"                   : ["Texture", "R/T/B/Stone.png"],
 			"stonebrick.png"              : ["Texture", "R/T/B/Stone_Cobblestone.png"],
@@ -401,7 +401,7 @@
 			
 			"web.png": ["Texture", "R/T/B/Web.png"],
 			
-			"whiteStone.png" : ["Texture", "R/T/B/End.png"],
+			"whiteStone.png" : ["Texture", "R/T/B/End/Default.png"],
 			
 			"wood.png"       : ["Texture", "R/T/B/Planks/Oak.png"],
 			"wood_birch.png" : ["Texture", "R/T/B/Planks/Birch.png"],
@@ -609,7 +609,7 @@
 			"minecartHopper.png" : ["Texture", "R/T/I/Minecart/Hopper.png"],
 			"minecartTnt.png"    : ["Texture", "R/T/I/Minecart/Dynamite.png"],
 			
-			"monsterPlacer.png"        : ["Texture", "R/T/I/Spawn/Default.png"],
+			"monsterPlacer.png"        : ["Animation", ["Texture", "R/T/I/Spawn/Default.png"], "Spawn"],
 			"monsterPlacer_overlay.png": ["Texture", "R/T/I/Spawn/Overlay.png"],
 			
 			"mushroomStew.png": ["Texture", "R/T/I/Bowl/Mushroom.png"],

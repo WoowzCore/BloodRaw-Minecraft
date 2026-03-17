@@ -1024,76 +1024,6 @@
 			},
 			
 			"models/": {
-				"item/": {
-					"cake.json": ["Variable", ["File", "R/M/I/Cake.json"], ["block/cake"]],
-					
-					"cauldron.json": ["Variable", ["File", "R/M/I/Block.json"], ["block/cauldron"]],
-					"hopper.json"  : ["Variable", ["File", "R/M/I/Block.json"], ["block/hopper"]],
-					
-					"comparator.json": ["Variable", ["File", "R/M/I/Repeater.json"], ["block/comparator"]],
-					
-					"oak_sapling.json"     : ["Variable", ["File", "R/M/I/Item.json"], ["item/bloodraw/sapling_oak"]],
-					"spruce_sapling.json"  : ["Variable", ["File", "R/M/I/Item.json"], ["item/bloodraw/sapling_spruce"]],
-					"birch_sapling.json"   : ["Variable", ["File", "R/M/I/Item.json"], ["item/bloodraw/sapling_birch"]],
-					"jungle_sapling.json"  : ["Variable", ["File", "R/M/I/Item.json"], ["item/bloodraw/sapling_jungle"]],
-					"acacia_sapling.json"  : ["Variable", ["File", "R/M/I/Item.json"], ["item/bloodraw/sapling_acacia"]],
-					"dark_oak_sapling.json": ["Variable", ["File", "R/M/I/Item.json"], ["item/bloodraw/sapling_dark_oak"]],
-					
-					"infested_stone.json"                : ["Rename", "stone_monster_egg.json"],
-					"infested_stone_bricks.json"         : ["Rename", "stone_brick_monster_egg.json"],
-					"infested_mossy_stone_bricks.json"   : ["Rename", "mossy_brick_monster_egg.json"],
-					"infested_cracked_stone_bricks.json" : ["Rename", "cracked_brick_monster_egg.json"],
-					"infested_chiseled_stone_bricks.json": ["Rename", "chiseled_brick_monster_egg.json"],
-					"infested_cobblestone.json"          : ["Rename", "cobblestone_monster_egg.json"],
-					
-					"stick.json": ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/stick"]],
-					
-					"wooden_axe.json"    : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/wooden_axe"]],
-					"wooden_hoe.json"    : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/wooden_hoe"]],
-					"wooden_pickaxe.json": ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/wooden_pickaxe"]],
-					"wooden_shovel.json" : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/wooden_shovel"]],
-					"wooden_sword.json"  : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/wooden_sword"]],
-					
-					"stone_axe.json"    : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/stone_axe"]],
-					"stone_hoe.json"    : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/stone_hoe"]],
-					"stone_pickaxe.json": ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/stone_pickaxe"]],
-					"stone_shovel.json" : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/stone_shovel"]],
-					"stone_sword.json"  : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/stone_sword"]],
-					
-					"iron_axe.json"    : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/iron_axe"]],
-					"iron_hoe.json"    : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/iron_hoe"]],
-					"iron_pickaxe.json": ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/iron_pickaxe"]],
-					"iron_shovel.json" : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/iron_shovel"]],
-					"iron_sword.json"  : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/iron_sword"]],
-					
-					"golden_axe.json"    : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/golden_axe"]],
-					"golden_hoe.json"    : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/golden_hoe"]],
-					"golden_pickaxe.json": ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/golden_pickaxe"]],
-					"golden_shovel.json" : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/golden_shovel"]],
-					"golden_sword.json"  : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/golden_sword"]],
-					
-					"diamond_axe.json"    : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/diamond_axe"]],
-					"diamond_hoe.json"    : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/diamond_hoe"]],
-					"diamond_pickaxe.json": ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/diamond_pickaxe"]],
-					"diamond_shovel.json" : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/diamond_shovel"]],
-					"diamond_sword.json"  : ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item/bloodraw/diamond_sword"]],
-					
-					"bow.json"          : ["Variable", ["File", "R/M/I/New/Bow_Big.json"], ["item/bloodraw/bow"]],
-					"bow_pulling_0.json": ["Variable", ["File", "R/M/I/Item_Parent.json"], ["item/bow","item/bloodraw/bow_0"]],
-					"bow_pulling_1.json": ["Variable", ["File", "R/M/I/Item_Parent.json"], ["item/bow","item/bloodraw/bow_1"]],
-					"bow_pulling_2.json": ["Variable", ["File", "R/M/I/Item_Parent.json"], ["item/bow","item/bloodraw/bow_2"]],
-					
-					"lead.json"         : ["Variable", ["File", "R/M/I/Handheld.json"], ["item/lead"]],
-					"reeds.json"        : null,
-					"sugar_cane.json"   : ["Variable", ["File", "R/M/I/Handheld.json"], ["item/sugar_cane"]],
-					"cod.json"          : ["Variable", ["File", "R/M/I/Handheld.json"], ["item/cod"]],
-					"cooked_cod.json"   : ["Variable", ["File", "R/M/I/Handheld.json"], ["item/cooked_cod"]],
-					"salmon.json"       : ["Variable", ["File", "R/M/I/Handheld.json"], ["item/salmon"]],
-					"clownfish.json"    : null,
-					"tropical_fish.json": ["Variable", ["File", "R/M/I/Handheld.json"], ["item/tropical_fish"]],
-					"rotten_flesh.json" : ["Variable", ["File", "R/M/I/Handheld.json"], ["item/rotten_flesh"]],
-				},
-				
 				"block/": {
 					"pumpkin.json": ["Variable", ["File", "R/M/B/Cube_Column_Double.json"], [
 						"block/pumpkin_side",
@@ -1107,80 +1037,11 @@
 						"block/carved_pumpkin"
 					]],
 
-					"lit_pumpkin.json"   : null,
-					"jack_o_lantern.json": ["Variable", ["File", "R/M/B/Cube_Column_Double_Front.json"], [
-						"block/bloodraw/pumpkin_side_on",
-						"block/pumpkin_top",
-						"block/bloodraw/pumpkin_bottom",
-						"block/jack_o_lantern"
-					]],
+					"jack_o_lantern.json": ["Rename", "lit_pumpkin.json"],
 					
-					"lit_redstone_ore.json": null,
-					"redstone_ore_on.json" : ["Variable", ["File", "R/M/B/Cube_All.json"], ["block/bloodraw/redstone_ore_lit"]],
-				
-					"melon.json": ["Variable", ["File", "R/M/B/Cube_Column_Double.json"], [
-						"block/melon_side",
-						"block/melon_top",
-						"block/bloodraw/melon_bottom"
-					]],
+					"redstone_ore_on.json" : ["Rename", "lit_redstone_ore.json"],
 					
-					"bookshelf.json": ["Variable", ["File", "R/M/B/Cube_Column.json"], ["block/bookshelf", "block/bloodraw/bookshelf_top"]],
-					
-					"crafting_table.json": ["Variable", ["File", "R/M/B/Cube.json"], [
-						"block/crafting_table_front",
-						"block/crafting_table_side",
-						"block/crafting_table_front",
-						"block/crafting_table_side",
-						"block/crafting_table_top",
-						"block/bloodraw/crafting_table_bottom",
-					]],
-					
-					"template_farmland.json": ["Rename", "farmland.json"],
-					
-					"bloodraw/farmland_1.json": ["Variable", ["File", "R/M/B/Farmland.json"], [
-						"block/dirt",
-						"block/bloodraw/farmland_side_1",
-						"block/bloodraw/farmland_1"
-					]],
-					"bloodraw/farmland_2.json": ["Variable", ["File", "R/M/B/Farmland.json"], [
-						"block/dirt",
-						"block/bloodraw/farmland_side_2",
-						"block/bloodraw/farmland_2"
-					]],
-					"bloodraw/farmland_3.json": ["Variable", ["File", "R/M/B/Farmland.json"], [
-						"block/dirt",
-						"block/bloodraw/farmland_side_3",
-						"block/bloodraw/farmland_3"
-					]],
-					"bloodraw/farmland_4.json": ["Variable", ["File", "R/M/B/Farmland.json"], [
-						"block/dirt",
-						"block/bloodraw/farmland_side_4",
-						"block/bloodraw/farmland_4"
-					]],
-					"bloodraw/farmland_5.json": ["Variable", ["File", "R/M/B/Farmland.json"], [
-						"block/dirt",
-						"block/bloodraw/farmland_side_5",
-						"block/bloodraw/farmland_5"
-					]],
-					"bloodraw/farmland_6.json": ["Variable", ["File", "R/M/B/Farmland.json"], [
-						"block/dirt",
-						"block/bloodraw/farmland_side_6",
-						"block/bloodraw/farmland_6"
-					]],
-					
-					"farmland_moist.json": ["Variable", ["File", "R/M/B/Farmland.json"], [
-						"block/dirt",
-						"block/bloodraw/farmland_side_7",
-						"block/farmland_moist"
-					]],
-					
-					"slime.json"      : null,
-					"slime_block.json": ["Variable", ["File", "R/M/B/Glass.json"], ["block/slime_block"]],
-					
-					"iron_block.json": ["Variable", ["File", "R/M/B/Cube_Column.json"], [
-						"block/iron_block",
-						"block/bloodraw/iron_top"
-					]],
+					"slime_block.json": ["Rename", "slime.json"],
 					
 					"template_trapdoor_top.json"   : ["Rename", "trapdoor_top.json"],
 					"template_trapdoor_bottom.json": ["Rename", "trapdoor_bottom.json"],
@@ -1190,19 +1051,6 @@
 					"template_orientable_trapdoor_bottom.json": ["Variable", ["File", "R/M/Parent.json"], ["block/template_trapdoor_bottom"]],
 					"template_orientable_trapdoor_open.json"  : ["Variable", ["File", "R/M/Parent.json"], ["block/template_trapdoor_open"]],
 					
-					"netherrack.json": ["Variable", ["File", "R/M/B/Cube_Column.json"], [
-						"block/bloodraw/nether_side",
-						"block/netherrack"
-					]],
-					
-					"beacon.json": ["Variable", ["File", "R/M/B/Beacon.json"], [
-						"block/beacon",
-						"block/obsidian",
-						"block/bloodraw/beacon_top",
-						"block/bloodraw/beacon_side",
-						"block/bloodraw/beacon_bottom"
-					]],
-					
 					"bloodraw/stone_infested.json"                : ["Variable", ["File", "R/M/B/Cube_All.json"], ["block/bloodraw/stone_infested"]],
 					"bloodraw/stone_bricks_infested.json"         : ["Variable", ["File", "R/M/B/Cube_All.json"], ["block/bloodraw/stone_bricks_infested"]],
 					"bloodraw/stone_bricks_moss_infested.json"    : ["Variable", ["File", "R/M/B/Cube_All.json"], ["block/bloodraw/stone_bricks_moss_infested"]],
@@ -1210,43 +1058,24 @@
 					"bloodraw/stone_bricks_chiseled_infested.json": ["Variable", ["File", "R/M/B/Cube_All.json"], ["block/bloodraw/stone_bricks_chiseled_infested"]],
 					"bloodraw/cobblestone_infested.json"          : ["Variable", ["File", "R/M/B/Cube_All.json"], ["block/bloodraw/cobblestone_infested"]],
 					
-					"glass.json": ["Variable", ["File", "R/M/B/Glass.json"], ["block/glass"]],
+					"black_stained_glass.json"     : ["Rename", "glass_black.json"],
+					"blue_stained_glass.json"      : ["Rename", "glass_blue.json"],
+					"brown_stained_glass.json"     : ["Rename", "glass_brown.json"],
+					"cyan_stained_glass.json"      : ["Rename", "glass_cyan.json"],
+					"gray_stained_glass.json"      : ["Rename", "glass_gray.json"],
+					"green_stained_glass.json"     : ["Rename", "glass_green.json"],
+					"light_blue_stained_glass.json": ["Rename", "glass_light_blue.json"],
+					"lime_stained_glass.json"      : ["Rename", "glass_lime.json"],
+					"magenta_stained_glass.json"   : ["Rename", "glass_magenta.json"],
+					"orange_stained_glass.json"    : ["Rename", "glass_orange.json"],
+					"pink_stained_glass.json"      : ["Rename", "glass_pink.json"],
+					"purple_stained_glass.json"    : ["Rename", "glass_purple.json"],
+					"red_stained_glass.json"       : ["Rename", "glass_red.json"],
+					"light_gray_stained_glass.json": ["Rename", "glass_silver.json"],
+					"white_stained_glass.json"     : ["Rename", "glass_white.json"],
+					"yellow_stained_glass.json"    : ["Rename", "glass_yellow.json"],
 					
-					"glass_black.json"     : null,
-					"glass_blue.json"      : null,
-					"glass_brown.json"     : null,
-					"glass_cyan.json"      : null,
-					"glass_gray.json"      : null,
-					"glass_green.json"     : null,
-					"glass_light_blue.json": null,
-					"glass_lime.json"      : null,
-					"glass_magenta.json"   : null,
-					"glass_orange.json"    : null,
-					"glass_pink.json"      : null,
-					"glass_purple.json"    : null,
-					"glass_red.json"       : null,
-					"glass_silver.json"    : null,
-					"glass_white.json"     : null,
-					"glass_yellow.json"    : null,
-					"black_stained_glass.json"     : ["Variable", ["File", "R/M/B/Glass.json"], ["block/black_stained_glass"]],
-					"blue_stained_glass.json"      : ["Variable", ["File", "R/M/B/Glass.json"], ["block/blue_stained_glass"]],
-					"brown_stained_glass.json"     : ["Variable", ["File", "R/M/B/Glass.json"], ["block/brown_stained_glass"]],
-					"cyan_stained_glass.json"      : ["Variable", ["File", "R/M/B/Glass.json"], ["block/cyan_stained_glass"]],
-					"gray_stained_glass.json"      : ["Variable", ["File", "R/M/B/Glass.json"], ["block/gray_stained_glass"]],
-					"green_stained_glass.json"     : ["Variable", ["File", "R/M/B/Glass.json"], ["block/green_stained_glass"]],
-					"light_blue_stained_glass.json": ["Variable", ["File", "R/M/B/Glass.json"], ["block/light_blue_stained_glass"]],
-					"lime_stained_glass.json"      : ["Variable", ["File", "R/M/B/Glass.json"], ["block/lime_stained_glass"]],
-					"magenta_stained_glass.json"   : ["Variable", ["File", "R/M/B/Glass.json"], ["block/magenta_stained_glass"]],
-					"orange_stained_glass.json"    : ["Variable", ["File", "R/M/B/Glass.json"], ["block/orange_stained_glass"]],
-					"pink_stained_glass.json"      : ["Variable", ["File", "R/M/B/Glass.json"], ["block/pink_stained_glass"]],
-					"purple_stained_glass.json"    : ["Variable", ["File", "R/M/B/Glass.json"], ["block/purple_stained_glass"]],
-					"red_stained_glass.json"       : ["Variable", ["File", "R/M/B/Glass.json"], ["block/red_stained_glass"]],
-					"light_gray_stained_glass.json": ["Variable", ["File", "R/M/B/Glass.json"], ["block/light_gray_stained_glass"]],
-					"white_stained_glass.json"     : ["Variable", ["File", "R/M/B/Glass.json"], ["block/white_stained_glass"]],
-					"yellow_stained_glass.json"    : ["Variable", ["File", "R/M/B/Glass.json"], ["block/yellow_stained_glass"]],
-					
-					"mob_spawner_cage.json": null,
-					"spawner.json"         : ["Variable", ["File", "R/M/B/Glass.json"], ["block/spawner"]],
+					"spawner.json"         : ["Rename", "mob_spawner_cage.json"],
 					
 					"oak_wood.json"     : ["Variable", ["File", "R/M/B/Cube_Column.json"], ["block/oak_log", "block/bloodraw/oak_wood"]],
 					"acacia_wood.json"  : ["Variable", ["File", "R/M/B/Cube_Column.json"], ["block/acacia_log", "block/bloodraw/acacia_wood"]],
@@ -1263,15 +1092,6 @@
 					"stripped_dark_oak_wood.json": ["Variable", ["File", "R/M/B/Cube_Column.json"], ["block/stripped_dark_oak_log", "block/bloodraw/stripped_dark_oak_wood"]],
 					
 					"smooth_quartz.json": ["Variable", ["File", "R/M/B/Cube_All.json"], ["block/bloodraw/smooth_quartz"]],
-					
-					"snow_height2.json" : ["Variable", ["File", "R/M/B/Snow_Layer.json"], ["block/snow", "block/bloodraw/snow_side", "2", "14"]],
-					"snow_height4.json" : ["Variable", ["File", "R/M/B/Snow_Layer.json"], ["block/snow", "block/bloodraw/snow_side", "4", "12"]],
-					"snow_height6.json" : ["Variable", ["File", "R/M/B/Snow_Layer.json"], ["block/snow", "block/bloodraw/snow_side", "6", "10"]],
-					"snow_height8.json" : ["Variable", ["File", "R/M/B/Snow_Layer.json"], ["block/snow", "block/bloodraw/snow_side", "8", "8"]],
-					"snow_height10.json": ["Variable", ["File", "R/M/B/Snow_Layer.json"], ["block/snow", "block/bloodraw/snow_side", "10", "6"]],
-					"snow_height12.json": ["Variable", ["File", "R/M/B/Snow_Layer.json"], ["block/snow", "block/bloodraw/snow_side", "12", "4"]],
-					"snow_height14.json": ["Variable", ["File", "R/M/B/Snow_Layer.json"], ["block/snow", "block/bloodraw/snow_side", "14", "2"]],
-					"snow_height16.json": ["Variable", ["File", "R/M/B/Cube_Column.json"], ["block/bloodraw/snow_side", "block/snow"]],
 					
 					"acacia_slab_double.json"          : ["Variable", ["File", "R/M/B/Cube_All.json"], ["block/bloodraw/acacia_slab_double"]],
 					"birch_slab_double.json"           : ["Variable", ["File", "R/M/B/Cube_All.json"], ["block/bloodraw/birch_slab_double"]],
@@ -1298,6 +1118,25 @@
 					"sandstone_slab_double.json"       : ["Variable", ["File", "R/M/B/Cube_All.json"], ["block/bloodraw/sandstone_slab_double"]],
 					"spruce_slab_double.json"          : ["Variable", ["File", "R/M/B/Cube_All.json"], ["block/bloodraw/spruce_slab_double"]],
 					"stone_brick_slab_double.json"     : ["Variable", ["File", "R/M/B/Cube_All.json"], ["block/bloodraw/stone_brick_slab_double"]],
+				},
+				
+				"item/": {
+					"cake.json": ["Variable", ["File", "R/M/I/Cake.json"], ["block/cake"]],
+					
+					"cauldron.json": ["Variable", ["File", "R/M/I/Block.json"], ["block/cauldron"]],
+					"hopper.json"  : ["Variable", ["File", "R/M/I/Block.json"], ["block/hopper"]],
+					
+					"comparator.json": ["Variable", ["File", "R/M/I/Repeater.json"], ["block/comparator"]],
+					
+					"infested_stone.json"                : ["Rename", "stone_monster_egg.json"],
+					"infested_stone_bricks.json"         : ["Rename", "stone_brick_monster_egg.json"],
+					"infested_mossy_stone_bricks.json"   : ["Rename", "mossy_brick_monster_egg.json"],
+					"infested_cracked_stone_bricks.json" : ["Rename", "cracked_brick_monster_egg.json"],
+					"infested_chiseled_stone_bricks.json": ["Rename", "chiseled_brick_monster_egg.json"],
+					"infested_cobblestone.json"          : ["Rename", "cobblestone_monster_egg.json"],
+					
+					"sugar_cane.json"   : ["Rename", "reeds.json"],
+					"tropical_fish.json": ["Rename", "clownfish.json"],
 				}
 			}
 		}

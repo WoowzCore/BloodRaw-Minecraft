@@ -52,7 +52,7 @@
 				},
 				"15" : {
 					"9" : ["Texture", "R/T/B/Portal_End_Frame_Side.png"],
-					"10" : ["Texture", "R/T/B/End.png"]
+					"10" : ["Texture", "R/T/B/End/Default.png"]
 				}
 			}
 		],

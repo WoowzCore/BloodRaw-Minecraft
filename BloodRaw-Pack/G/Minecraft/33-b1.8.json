@@ -22,10 +22,10 @@
 					"3" : ["Texture", "R/T/B/Stone_Bricks.png"]
 				},
 				"8" : {
-					"8" : ["Texture", "R/T/B/Watermelon.png"]
+					"8" : ["Texture", "R/T/B/Watermelon/Default.png"]
 				},
 				"9" : {
-					"8" : ["Texture", "R/T/B/Watermelon_Top.png"]
+					"8" : ["Texture", "R/T/B/Watermelon/Top.png"]
 				},
 				"13" : {
 					"7" : ["Texture", "R/T/B/Mushroom_Block_Skin_Red.png"],
@@ -36,8 +36,8 @@
 					"8" : ["Texture", "R/T/B/Mushroom_Block.png"]
 				},
 				"15" : {
-					"6" : ["Texture", "R/T/B/Stem.png"],
-					"7" : ["Texture", "R/T/B/Stem_Connect.png"],
+					"6" : ["Texture", "R/T/B/Pumpkin/Stem.png"],
+					"7" : ["Texture", "R/T/B/Pumpkin/Stem_Connect.png"],
 					"8" : ["Texture", "R/T/B/Vines.png"]
 				}
 			}
