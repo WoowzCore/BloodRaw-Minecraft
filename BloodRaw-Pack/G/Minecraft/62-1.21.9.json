@@ -1,0 +1,11 @@
+{
+	"Parent": "1.21.6",
+	
+	"ID"  : "1.21.9",
+	"Type": "Version",
+	"Dev" : "Error",
+	
+	"Add": ["ResourcePack"],
+	
+	"Files": {}
+}

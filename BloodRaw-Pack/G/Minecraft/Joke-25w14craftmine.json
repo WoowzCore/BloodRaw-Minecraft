@@ -1,0 +1,12 @@
+{
+	"Parent": "1.21.5",
+	
+	"ID"  : "25w14craftmine",
+	"Name": "Joke \"25w14craftmine\"",
+	"Type": "Version",
+	"Dev" : "Error",
+	
+	"Add": ["TexturePack"],
+	
+	"Files": {}
+}

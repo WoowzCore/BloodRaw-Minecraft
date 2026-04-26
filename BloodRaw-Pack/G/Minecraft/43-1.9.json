@@ -306,7 +306,7 @@
 						
 						"melon_bottom.png" : ["Texture", "R/T/B/Watermelon/Bottom.png"],
 						
-						"bookshelf_top.png"        : ["Texture", "R/T/B/Bookshelf_Top.png"],
+						"bookshelf_top.png"        : ["Texture", "R/T/B/Bookshelf/Top.png"],
 						"crafting_table_bottom.png": "assets/minecraft/textures/blocks/bloodraw/bookshelf_top.png",
 						
 						"farmland_1.png": ["Texture", "R/T/B/Farmland/1.file"],
@@ -326,7 +326,7 @@
 						
 						"iron_top.png": ["Texture", "R/T/B/Iron_Top.png"],
 						
-						"nether_side.png": ["Texture", "R/T/B/Nether_Side.png"],
+						"nether_side.png": ["Texture", "R/T/B/Nether/Side.png"],
 						
 						"beacon_top.png"   : ["Animation", ["Texture", "R/T/B/Beacon/Top.png"], "Beacon"],
 						"beacon_side.png"  : ["Animation", ["Texture", "R/T/B/Beacon/Side.png"], "Beacon"],

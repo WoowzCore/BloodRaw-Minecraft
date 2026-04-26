@@ -36,7 +36,7 @@
 					"dirt_podzol_top.png" : ["Texture", "R/T/B/Podzol/Default.png"],
 					"dirt_podzol_side.png": ["Texture", "R/T/B/Podzol/Dirt.png"],
 					
-					"daylight_detector_inverted_top.png": ["Texture", "R/T/B/Detector_Light_Night.png"],
+					"daylight_detector_inverted_top.png": ["Texture", "R/T/B/Detector_Light/Night.png"],
 					
 					"iron_trapdoor.png": ["Texture", "R/T/B/Trapdoor/Iron.png"],
 					
@@ -47,10 +47,10 @@
 					"leaves_oak_opaque.png"    : null,
 					"leaves_spruce_opaque.png" : null,
 					
-					"prismarine_bricks.png": ["Texture", "R/T/B/Prismarine_Bricks.png"],
-					"prismarine_dark.png"  : ["Texture", "R/T/B/Prismarine_Dark.png"],
-					"prismarine_rough.png" : ["Texture", "R/T/B/Prismarine.png"],
-					"sea_lantern.png"      : ["Animation", ["Texture", "R/T/B/Prismarine_Lamp.png"], "Prismarine"],
+					"prismarine_bricks.png": ["Texture", "R/T/B/Prismarine/Bricks.png"],
+					"prismarine_dark.png"  : ["Texture", "R/T/B/Prismarine/Dark.png"],
+					"prismarine_rough.png" : ["Texture", "R/T/B/Prismarine/Default.png"],
+					"sea_lantern.png"      : ["Animation", ["Texture", "R/T/B/Prismarine/Lamp.png"], "Prismarine"],
 					
 					"red_sandstone_bottom.png": ["Texture", "R/T/B/Sandstone/Red/Default.png"],
 					"red_sandstone_carved.png": ["Texture", "R/T/B/Sandstone/Red/Chiseled.png"],

@@ -1,0 +1,12 @@
+{
+	"Parent": "26.1",
+	
+	"ID"  : "Nerdcraft",
+	"Name": "Joke \"26w14a\"",
+	"Type": "Version",
+	"Dev" : "Error",
+	
+	"Add": ["TexturePack"],
+	
+	"Files": {}
+}

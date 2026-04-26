@@ -1,0 +1,12 @@
+{
+	"Parent": "1.19",
+	
+	"ID"  : "22w13oneBlockAtATime",
+	"Name": "Joke \"22w13oneBlockAtATime\"",
+	"Type": "Version",
+	"Dev" : "Error",
+	
+	"Add": ["TexturePack"],
+	
+	"Files": {}
+}

@@ -34,7 +34,7 @@
 					"bone_block_top.png" : ["Texture", "R/T/B/Bone/Top.png"],
 					
 					"nether_wart_block.png": [],
-					"red_nether_brick.png" : [],
+					"red_nether_brick.png" : ["Texture", "R/T/B/Bricks/Nether/Wart/Default.png"],
 					
 					"magma.png" : ["Animation", ["Texture", "R/T/B/Magma.png"], "Lava"],
 				}

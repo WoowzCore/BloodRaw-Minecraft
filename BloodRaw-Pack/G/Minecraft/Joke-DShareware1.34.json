@@ -1,0 +1,12 @@
+{
+	"Parent": "1.14",
+	
+	"ID"  : "DShareware1.34",
+	"Name": "Joke \"D Shareware v1.34\"",
+	"Type": "Version",
+	"Dev" : "Error",
+	
+	"Add": ["TexturePack"],
+	
+	"Files": {}
+}

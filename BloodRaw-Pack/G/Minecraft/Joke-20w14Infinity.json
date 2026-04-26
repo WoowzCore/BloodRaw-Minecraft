@@ -1,0 +1,12 @@
+{
+	"Parent": "1.16",
+	
+	"ID"  : "20w14Infinity",
+	"Name": "Joke \"20w14∞\"",
+	"Type": "Version",
+	"Dev" : "Error",
+	
+	"Add": ["TexturePack"],
+	
+	"Files": {}
+}

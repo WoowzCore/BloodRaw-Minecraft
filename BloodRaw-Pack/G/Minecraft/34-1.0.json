@@ -10,16 +10,16 @@
 	"Files": {
 		"terrain.png": [ "Atlas", {
 				"0" : {
-					"14" : ["Texture", "R/T/B/Nether_Bricks.png"]
+					"14" : ["Texture", "R/T/B/Bricks/Nether/Default.png"]
 				},
 				"2" : {
-					"14" : ["Texture", "R/T/B/Wart_0.png"]
+					"14" : ["Texture", "R/T/B/Wart/0.png"]
 				},
 				"3" : {
-					"14" : ["Texture", "R/T/B/Wart_1.png"]
+					"14" : ["Texture", "R/T/B/Wart/1.png"]
 				},
 				"4" : {
-					"14" : ["Texture", "R/T/B/Wart_2.png"]
+					"14" : ["Texture", "R/T/B/Wart/2.png"]
 				},
 				"6" : {
 					"10" : ["Animation", ["Texture", "R/T/B/Enchanting.png"], false],

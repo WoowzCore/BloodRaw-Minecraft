@@ -24,7 +24,7 @@
 					"7" : ["Texture", "R/T/B/Pumpkin/Default.png"]
 				},
 				"7" : {
-					"6" : ["Texture", "R/T/B/Nether.png"],
+					"6" : ["Texture", "R/T/B/Nether/Default.png"],
 					"7" : ["Texture", "R/T/B/Pumpkin/Face.png"]
 				},
 				"8" : {

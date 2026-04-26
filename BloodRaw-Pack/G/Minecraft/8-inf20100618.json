@@ -225,13 +225,13 @@
 				},
 				"11" : {
 					"1" : ["Texture", "R/T/B/Chest.png"],
-					"2" : ["Texture", "R/T/B/Workbench.png"],
-					"3" : ["Texture", "R/T/B/Workbench_Side.png"],
+					"2" : ["Texture", "R/T/B/Workbench/Top.png"],
+					"3" : ["Texture", "R/T/B/Workbench/Default.png"],
 					"5" : ["Texture", "R/T/B/Wheat/3.png"]
 				},
 				"12" : {
 					"2" : ["Texture", "R/T/B/Furnace.png"],
-					"3" : ["Texture", "R/T/B/Workbench_Side_2.png"],
+					"3" : ["Texture", "R/T/B/Workbench/Default_2.png"],
 					"5" : ["Texture", "R/T/B/Wheat/4.png"]
 				},
 				"13" : {
@@ -251,7 +251,7 @@
 					"15" : false
 				},
 				"15" : {
-					"1" : ["Animation", ["Texture", "R/T/B/Fire.file"], false],
+					"1" : ["Animation", ["Texture", "R/T/B/Fire/Default.file"], false],
 					"5" : ["Texture", "R/T/B/Wheat/7.png"],
 					"12" : false,
 					"13" : false,

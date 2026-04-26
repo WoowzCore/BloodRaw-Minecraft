@@ -31,14 +31,14 @@
 				"2": ["Texture", "R/T/B/Dispenser_Top.png"]
 			},
 			"9": {
-				"3" : ["Texture", "R/T/B/Detector_Light_Day.png"],
+				"3" : ["Texture", "R/T/B/Detector_Light/Day.png"],
 				"13": ["Texture", "R/T/B/Quartz/Chiseled_Top.png"],
 				"14": ["Texture", "R/T/B/Quartz/Chiseled.png"]
 			},
 			"10": {
 				"1" : ["Animation", ["Texture", "R/T/B/Redstone.png"], false],
 				"2" : ["Texture", "R/T/B/Dropper_Top.png"],
-				"3" : ["Texture", "R/T/B/Detector_Light.png"],
+				"3" : ["Texture", "R/T/B/Detector_Light/Default.png"],
 				"13": ["Texture", "R/T/B/Quartz/Pillar_Top.png"],
 				"14": ["Texture", "R/T/B/Quartz/Pillar.png"]
 			},
@@ -51,8 +51,8 @@
 			"12": {
 				"8" : null,
 				"11": ["Texture", "R/T/B/Comparator_On.png"],
-				"13": ["Texture", "R/T/B/Hopper.png"],
-				"14": ["Texture", "R/T/B/Hopper_Inner.png"],
+				"13": ["Texture", "R/T/B/Hopper/Default.png"],
+				"14": ["Texture", "R/T/B/Hopper/Inner.png"],
 				"15": ["Texture", "R/T/B/Cauldron/Top.png"]
 			},
 			"13": {
@@ -94,7 +94,7 @@
 			"blockLapis.png"    : ["Texture", "R/T/B/Lapis.png"],
 			"blockRedstone.png" : ["Animation", ["Texture", "R/T/B/Redstone.png"], "Redstone"],
 			
-			"bookshelf.png" : ["Texture", "R/T/B/Bookshelf.png"],
+			"bookshelf.png" : ["Texture", "R/T/B/Bookshelf/Default.png"],
 			
 			"brewingStand.png"      : ["Texture", "R/T/B/Brewing/Default.png"],
 			"brewingStand_base.png" : ["Texture", "R/T/B/Brewing/Bottom.png"],
@@ -157,8 +157,8 @@
 			"crops_6.png": ["Texture", "R/T/B/Wheat/6.png"],
 			"crops_7.png": ["Texture", "R/T/B/Wheat/7.png"],
 			
-			"daylightDetector_side.png": ["Texture", "R/T/B/Detector_Light.png"],
-			"daylightDetector_top.png" : ["Texture", "R/T/B/Detector_Light_Day.png"],
+			"daylightDetector_side.png": ["Texture", "R/T/B/Detector_Light/Default.png"],
+			"daylightDetector_top.png" : ["Texture", "R/T/B/Detector_Light/Day.png"],
 			
 			"deadbush.png": ["Texture", "R/T/B/Bush_Dead.png"],
 			
@@ -207,8 +207,8 @@
 			
 			"fern.png": ["Texture", "R/T/B/Grass_Fern.png"],
 			
-			"fire_0.png": ["Animation", ["Texture", "R/T/B/Fire.file"], "Fire"],
-			"fire_1.png": ["Animation", ["Texture", "R/T/B/Fire_2.file"], "Fire"],
+			"fire_0.png": ["Animation", ["Texture", "R/T/B/Fire/Default.file"], "Fire"],
+			"fire_1.png": ["Animation", ["Texture", "R/T/B/Fire/Default_2.file"], "Fire"],
 			
 			"flower.png": ["Texture", "R/T/B/Flower/Dandelion.png"],
 			
@@ -230,11 +230,11 @@
 			
 			"gravel.png": ["Texture", "R/T/B/Gravel.png"],
 			
-			"hellrock.png": ["Texture", "R/T/B/Nether.png"],
+			"hellrock.png": ["Texture", "R/T/B/Nether/Default.png"],
 			"hellsand.png": ["Texture", "R/T/B/Soulsand.png"],
 			
-			"hopper.png"       : ["Texture", "R/T/B/Hopper.png"],
-			"hopper_inside.png": ["Texture", "R/T/B/Hopper_Inner.png"],
+			"hopper.png"       : ["Texture", "R/T/B/Hopper/Default.png"],
+			"hopper_inside.png": ["Texture", "R/T/B/Hopper/Inner.png"],
 			"hopper_top.png"   : ["Texture", "R/T/B/Cauldron/Top.png"],
 			
 			"ice.png": ["Texture", "R/T/B/Ice.png"],
@@ -276,13 +276,13 @@
 			"mycel_top.png" : ["Texture", "R/T/B/Mycelium/Default.png"],
 			"mycel_side.png": ["Texture", "R/T/B/Mycelium/Dirt.png"],
 			
-			"netherBrick.png": ["Texture", "R/T/B/Nether_Bricks.png"],
+			"netherBrick.png": ["Texture", "R/T/B/Bricks/Nether/Default.png"],
 			
 			"netherquartz.png": ["Texture", "R/T/B/Quartz_Ore_Nether.png"],
 			
-			"netherStalk_0.png": ["Texture", "R/T/B/Wart_0.png"],
-			"netherStalk_1.png": ["Texture", "R/T/B/Wart_1.png"],
-			"netherStalk_2.png": ["Texture", "R/T/B/Wart_2.png"],
+			"netherStalk_0.png": ["Texture", "R/T/B/Wart/0.png"],
+			"netherStalk_1.png": ["Texture", "R/T/B/Wart/1.png"],
+			"netherStalk_2.png": ["Texture", "R/T/B/Wart/2.png"],
 			
 			"obsidian.png": ["Texture", "R/T/B/Obsidian.png"],
 			
@@ -408,9 +408,9 @@
 			"wood_jungle.png": ["Texture", "R/T/B/Planks/Jungle.png"],
 			"wood_spruce.png": ["Texture", "R/T/B/Planks/Spruce.png"],
 			
-			"workbench_front.png": ["Texture", "R/T/B/Workbench_Side_2.png"],
-			"workbench_side.png" : ["Texture", "R/T/B/Workbench_Side.png"],
-			"workbench_top.png"  : ["Texture", "R/T/B/Workbench.png"]
+			"workbench_front.png": ["Texture", "R/T/B/Workbench/Default_2.png"],
+			"workbench_side.png" : ["Texture", "R/T/B/Workbench/Default.png"],
+			"workbench_top.png"  : ["Texture", "R/T/B/Workbench/Top.png"]
 		},
 		
 		"gui/items.png": ["Atlas", {
@@ -482,8 +482,8 @@
 			"chestplateGold.png"         : ["Texture", "R/T/I/Chestplate/Gold.png"],
 			"chestplateIron.png"         : ["Texture", "R/T/I/Chestplate/Iron.png"],
 			
-			"chickenCooked.png": ["Texture", "R/T/I/Meat/Chicken.png"],
-			"chickenRaw.png"   : ["Texture", "R/T/I/Meat/Cooked/Chicken.png"],
+			"chickenCooked.png": ["Texture", "R/T/I/Meat/Cooked/Chicken.png"],
+			"chickenRaw.png"   : ["Texture", "R/T/I/Meat/Chicken.png"],
 			
 			"clay.png": ["Texture", "R/T/I/Clay.png"],
 			
