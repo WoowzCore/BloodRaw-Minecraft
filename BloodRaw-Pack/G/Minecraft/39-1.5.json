@@ -78,12 +78,12 @@
 			
 			"beacon.png": ["Animation", ["Texture", "R/T/B/Beacon/Default.png"], "Beacon"],
 			
-			"bed_feet_end.png" : ["Texture", "R/T/B/Bed/Old_Back.png"],
-			"bed_feet_side.png": ["Texture", "R/T/B/Bed/Old_Left.png"],
-			"bed_feet_top.png" : ["Texture", "R/T/B/Bed/Old_Bottom.png"],
-			"bed_head_end.png" : ["Texture", "R/T/B/Bed/Old_Front.png"],
-			"bed_head_side.png": ["Texture", "R/T/B/Bed/Old_Right.png"],
-			"bed_head_top.png" : ["Texture", "R/T/B/Bed/Old.png"],
+			"bed_feet_end.png" : ["Texture", "R/T/B/Bed/Old_Back.file"],
+			"bed_feet_side.png": ["Texture", "R/T/B/Bed/Old_Left.file"],
+			"bed_feet_top.png" : ["Texture", "R/T/B/Bed/Old_Bottom.file"],
+			"bed_head_end.png" : ["Texture", "R/T/B/Bed/Old_Front.file"],
+			"bed_head_side.png": ["Texture", "R/T/B/Bed/Old_Right.file"],
+			"bed_head_top.png" : ["Texture", "R/T/B/Bed/Old.file"],
 			
 			"bedrock.png" : ["Texture", "R/T/B/Bedrock.png"],
 			
@@ -342,7 +342,7 @@
 			"rose.png": ["Texture", "R/T/B/Flower/Rose.png"],
 			
 			"sand.png"            : ["Texture", "R/T/B/Sand/Default.png"],
-			"sandstone_bottom.png": ["Texture", "R/T/B/Sandstone/Default.png"],
+			"sandstone_bottom.png": ["Texture", "R/T/B/Sandstone/Top.png"],
 			"sandstone_carved.png": ["Texture", "R/T/B/Sandstone/Chiseled.png"],
 			"sandstone_side.png"  : ["Texture", "R/T/B/Sandstone/Default.png"],
 			"sandstone_smooth.png": ["Texture", "R/T/B/Sandstone/Smooth.png"],
@@ -415,7 +415,7 @@
 		
 		"gui/items.png": ["Atlas", {
 			"5": {
-				"9" : ["Texture", "R/T/I/Comparator.png"],
+				"9" : ["Texture", "R/T/I/Redstone/Comparator.png"],
 				"10": ["Texture", "R/T/I/Brick/Nether.png"]
 			},
 			"12": {
@@ -491,7 +491,7 @@
 			
 			"coal.png": ["Texture", "R/T/I/Coal/Default.png"],
 			
-			"comparator.png": ["Texture", "R/T/I/Comparator.png"],
+			"comparator.png": ["Texture", "R/T/I/Redstone/Comparator.png"],
 			
 			"compass.png": ["Animation", ["Texture", "R/T/I/Compass/Default.file"], {}],
 			
@@ -499,7 +499,7 @@
 			
 			"diamond.png": ["Texture", "R/T/I/Gem/Diamond.png"],
 			
-			"diode.png": ["Texture", "R/T/I/Repeater.png"],
+			"diode.png": ["Texture", "R/T/I/Redstone/Repeater.png"],
 			
 			"doorIron.png": ["Texture", "R/T/I/Door/Iron.png"],
 			"doorWood.png": ["Texture", "R/T/I/Door/Oak.png"],
@@ -660,7 +660,7 @@
 			"record_wait.png"   : ["Texture", "R/T/I/Record/Wait.png"],
 			"record_ward.png"   : ["Texture", "R/T/I/Record/Ward.png"],
 			
-			"redstone.png": ["Animation", ["Texture", "R/T/I/Redstone.png"], "Redstone"],
+			"redstone.png": ["Animation", ["Texture", "R/T/I/Redstone/Default.png"], "Redstone"],
 			
 			"reeds.png": ["Texture", "R/T/I/Sugarcane.png"],
 			

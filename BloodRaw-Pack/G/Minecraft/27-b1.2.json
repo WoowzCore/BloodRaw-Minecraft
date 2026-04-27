@@ -15,7 +15,7 @@
 					"10" : ["Texture", "R/T/B/Lapis_Ore.png"],
 					"11" : ["Texture", "R/T/B/Sandstone/Top.png"],
 					"12" : ["Texture", "R/T/B/Sandstone/Default.png"],
-					"13" : ["Texture", "R/T/B/Sandstone/Default.png"]
+					"13" : ["Texture", "R/T/B/Sandstone/Top.png"]
 				},
 				"1" : {
 					"7"  : ["Texture", "R/T/B/Wool/Black.file"],
@@ -45,10 +45,12 @@
 					"8" : ["Texture", "R/T/B/Leaves/Spruce_Solid.file"]
 				},
 				"6" : {
+					"1" : ["Texture", "R/T/B/Iron.png"],
 					"2" : null,
 					"3" : null
 				},
 				"7" : {
+					"1" : ["Texture", "R/T/B/Gold.png"],
 					"2" : null,
 					"3" : null
 				},

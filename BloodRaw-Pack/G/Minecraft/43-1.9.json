@@ -269,9 +269,9 @@
 					"frosted_ice_2.png": ["Texture", "R/T/B/Ice_Frost_2.png"],
 					"frosted_ice_3.png": ["Texture", "R/T/B/Ice_Frost_3.png"],
 					
-					"purpur_block.png"     : ["Texture", "R/T/B/Purpur.png"],
-					"purpur_pillar.png"    : ["Texture", "R/T/B/Purpur_Pillar.png"],
-					"purpur_pillar_top.png": ["Texture", "R/T/B/Purpur_Pillar_Top.png"],
+					"purpur_block.png"     : ["Texture", "R/T/B/Purpur/Default.png"],
+					"purpur_pillar.png"    : ["Texture", "R/T/B/Purpur/Pillar.png"],
+					"purpur_pillar_top.png": ["Texture", "R/T/B/Purpur/Pillar_Top.png"],
 					
 					"end_bricks.png": ["Texture", "R/T/B/End/Bricks.png"],
 					"end_rod.png"   : ["Animation", ["Texture", "R/T/B/Rod.png"], "End"],
@@ -325,8 +325,10 @@
 						"farmland_side_7.png": ["Texture", "R/T/B/Farmland/Side_7.png"],
 						
 						"iron_top.png": ["Texture", "R/T/B/Iron_Top.png"],
+						"gold_top.png": ["Texture", "R/T/B/Gold_Top.png"],
 						
-						"nether_side.png": ["Texture", "R/T/B/Nether/Side.png"],
+						"nether_side.png"           : ["Texture", "R/T/B/Nether/Side.png"],
+						"nether_quartz_ore_side.png": ["Texture", "R/T/B/Quartz_Ore_Nether_Side.png"],
 						
 						"beacon_top.png"   : ["Animation", ["Texture", "R/T/B/Beacon/Top.png"], "Beacon"],
 						"beacon_side.png"  : ["Animation", ["Texture", "R/T/B/Beacon/Side.png"], "Beacon"],
@@ -486,6 +488,11 @@
 						"block<[S]>/bloodraw/iron_top"
 					]],
 					
+					"gold_block.json": ["Variable", ["File", "R/M/B/Cube_Column.json"], [
+						"block<[S]>/gold_block",
+						"block<[S]>/bloodraw/gold_top"
+					]],
+					
 					"trapdoor_top.json"   : ["File", "R/M/B/New/Trapdoor.json"],
 					"trapdoor_bottom.json": ["File", "R/M/B/New/Trapdoor_Bottom.json"],
 					"trapdoor_open.json"  : ["File", "R/M/B/New/Trapdoor_Open.json"],
@@ -493,6 +500,10 @@
 					"netherrack.json": ["Variable", ["File", "R/M/B/Cube_Column.json"], [
 						"block<[S]>/bloodraw/nether_side",
 						"block<[S]>/netherrack"
+					]],
+					"quartz_ore.json": ["Variable", ["File", "R/M/B/Cube_Column.json"], [
+						"block<[S]>/bloodraw/nether_quartz_ore_side",
+						"block<[S]>/quartz_ore"
 					]],
 					
 					"bloodraw/beacon.json": ["File", "R/M/B/New/Beacon.json"],
@@ -557,8 +568,9 @@
 				
 				"item/": {
 					"bloodraw/": {
-						"generated_big.json": ["File", "R/M/I/New/Generated_Big.json"],
-						"handheld_big.json" : ["File", "R/M/I/New/Handheld_Big.json"],
+						"generated_big.json"   : ["File", "R/M/I/New/Generated_Big.json"],
+						"handheld_big.json"    : ["File", "R/M/I/New/Handheld_Big.json"],
+						"handheld_rod_big.json": ["File", "R/M/I/New/Handheld_Rod_Big.json"],
 					},
 					
 					"cake.json": ["Variable", ["File", "R/M/I/Cake.json"], ["block/cake_uneaten"]],
@@ -587,7 +599,8 @@
 					"chiseled_brick_monster_egg.json": ["Variable", ["File", "R/M/Parent.json"], ["block/bloodraw/stone_bricks_chiseled_infested"]],
 					"cobblestone_monster_egg.json"   : ["Variable", ["File", "R/M/Parent.json"], ["block/bloodraw/cobblestone_infested"]],
 					
-					"handheld.json": ["File", "R/M/I/New/Handheld.json"],
+					"handheld.json"    : ["File", "R/M/I/New/Handheld.json"],
+					"handheld_rod.json": ["File", "R/M/I/New/Handheld_Rod.json"],
 				
 					"stick.json": ["Variable", ["File", "R/M/I/Handheld_Big.json"], ["item<[S]>/bloodraw/stick"]],
 				

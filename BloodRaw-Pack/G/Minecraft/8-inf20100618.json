@@ -200,9 +200,9 @@
 					"5" : ["Texture", "R/T/B/Farmland/7.png"]
 				},
 				"7" : {
-					"1" : ["Texture", "R/T/B/Gold.png"],
+					"1" : ["Texture", "R/T/B/Gold_Top.png"],
 					"2" : ["Texture", "R/T/B/Gold.png"],
-					"3" : ["Texture", "R/T/B/Gold.png"],
+					"3" : ["Texture", "R/T/B/Gold_Top.png"],
 					"5" : ["Texture", "R/T/B/Farmland/0.png"]
 				},
 				"8" : {

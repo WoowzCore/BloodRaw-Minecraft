@@ -5,7 +5,7 @@
 	},
 	
 	"Text": {
-		"Version"   : "1.8.7",
+		"Version"   : "1.8.8",
 		"Name"      : "BloodRaw",
 		"Author"    : "Woowz11",
 		"License"   : "CC BY-NC-SA 4.0",
@@ -16,7 +16,9 @@
 		
 		"CurseForge": "https://www.curseforge.com/minecraft/mc-mods/",
 		
-		"S": "<[Custom More113 ? '' : 's']>"
+		"S": "<[Custom More113 ? '' : 's']>",
+		
+		"CreateTime": "14.07.2023", // Дата создания пака
 	},
 	
 	"Color": {

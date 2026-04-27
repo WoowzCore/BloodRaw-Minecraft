@@ -1,0 +1,6 @@
+["Create", 16, 16, null, [
+	["Put", ["Texture", "R/T/B/Bed/Red.file", [["Crop", 0, 0, 6, 16], ["Rotate", -90]]], 0, 7],
+	
+	["Put", ["Texture", "R/T/B/Bed/Red.file", [["Crop", 3, 22, 3, 3], ["Rotate", 90]]], 0 , 13],
+	["Put", ["Texture", "R/T/B/Bed/Red.file", [["Crop", 3, 25, 3, 3], ["Rotate", 90]]], 13, 13]
+]]

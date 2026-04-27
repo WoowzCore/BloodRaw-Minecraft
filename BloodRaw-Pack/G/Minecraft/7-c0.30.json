@@ -33,7 +33,7 @@
 				},
 				"3" : {
 					"1" : ["Texture", "R/T/B/Gravel.png"],
-					"2" : ["Texture", "R/T/B/Bookshelf.png"],
+					"2" : ["Texture", "R/T/B/Bookshelf/Default.png"],
 					"4" : ["Texture", "R/T/B/Wool/White.file", [["Multiply", "#9BFE39"]]],
 					"15" : ["Texture", "R/T/B/Destroy/3.png", [["Background", "#7F7F7F"]]]
 				},
@@ -66,9 +66,9 @@
 				},
 				"8" : {
 					"0" : ["Texture", "R/T/B/Dynamite/Default.png"],
-					"1" : ["Texture", "R/T/B/Gold.png"],
+					"1" : ["Texture", "R/T/B/Gold_Top.png"],
 					"2" : ["Texture", "R/T/B/Gold.png"],
-					"3" : ["Texture", "R/T/B/Gold.png"],
+					"3" : ["Texture", "R/T/B/Gold_Top.png"],
 					"4" : ["Texture", "R/T/B/Wool/White.file", [["Multiply", "#8A8AFE"]]],
 					"15" : ["Texture", "R/T/B/Destroy/8.png", [["Background", "#7F7F7F"]]]
 				},

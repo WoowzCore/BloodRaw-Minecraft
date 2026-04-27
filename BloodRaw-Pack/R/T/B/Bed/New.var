@@ -1,0 +1,19 @@
+["Create", 64, 64, null, [
+	["Put", ["Texture", "R/T/B/Bed/<[Var1]>.file", [["Crop", 22, 0 , 16, 16], ["Rotate", -90]]], 6 , 6 ],
+	["Put", ["Texture", "R/T/B/Bed/<[Var1]>.file", [["Crop", 22, 22, 16, 16], ["Rotate", -90]]], 28, 6 ],
+	["Put", ["Texture", "R/T/B/Bed/<[Var1]>.file", [["Crop", 6 , 0 , 16, 16], ["Rotate", -90]]], 6 , 28],
+	["Put", ["Texture", "R/T/B/Bed/<[Var1]>.file", [["Crop", 6 , 22, 16, 16], ["Rotate", -90]]], 28, 28],
+	
+	["Put", ["Texture", "R/T/B/Bed/<[Var1]>.file", [["Crop", 38, 0 , 6, 16], ["Rotate", -90]]], 6 , 0 ],
+	["Put", ["Texture", "R/T/B/Bed/<[Var1]>.file", [["Crop", 22, 16, 16, 6], ["Rotate", -90], ["Flip", true]]], 0 , 6 ],
+	["Put", ["Texture", "R/T/B/Bed/<[Var1]>.file", [["Crop", 22, 16, 16, 6], ["Rotate", -90]]], 22, 6 ],
+	
+	["Put", ["Texture", "R/T/B/Bed/<[Var1]>.file", [["Crop", 0, 0 , 6, 16], ["Rotate",  90]]], 22, 22],
+	["Put", ["Texture", "R/T/B/Bed/<[Var1]>.file", [["Crop", 6, 16, 16, 6], ["Rotate", -90], ["Flip", true]]], 0 , 28],
+	["Put", ["Texture", "R/T/B/Bed/<[Var1]>.file", [["Crop", 6, 16, 16, 6], ["Rotate", -90]]], 22, 28],
+	
+	["Put", ["Texture", "R/T/B/Bed/<[Var1]>.file", [["Crop", 0, 16, 6, 12], ["Rotate", 90]]], 50,  0],
+	["Put", ["Texture", "R/T/B/Bed/<[Var1]>.file", [["Crop", 0, 16, 6, 12], ["Rotate", 90]]], 50,  6],
+	["Put", ["Texture", "R/T/B/Bed/<[Var1]>.file", [["Crop", 0, 16, 6, 12], ["Rotate", 90]]], 50, 12],
+	["Put", ["Texture", "R/T/B/Bed/<[Var1]>.file", [["Crop", 0, 16, 6, 12], ["Rotate", 90]]], 50, 18],
+]]

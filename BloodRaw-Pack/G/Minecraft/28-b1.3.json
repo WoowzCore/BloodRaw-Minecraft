@@ -22,19 +22,19 @@
 				"5" : {
 					"5" : null,
 					"6" : null,
-					"9" : ["Texture", "R/T/B/Bed/Old_Back.png", [["Move", 0, -7]]],
+					"9" : ["Texture", "R/T/B/Bed/Old_Back.file", [["Move", 0, -7]]],
 					"10" : ["Texture", "R/T/B/Redstone_Dust_Line.file"]
 				},
 				"6" : {
-					"8" : ["Texture", "R/T/B/Bed/Old_Bottom.png"],
-					"9" : ["Texture", "R/T/B/Bed/Old_Left.png", [["Move", 0, -7]]]
+					"8" : ["Texture", "R/T/B/Bed/Old_Bottom.file"],
+					"9" : ["Texture", "R/T/B/Bed/Old_Left.file", [["Move", 0, -7]]]
 				},
 				"7" : {
-					"8" : ["Texture", "R/T/B/Bed/Old.png"],
-					"9" : ["Texture", "R/T/B/Bed/Old_Right.png", [["Move", 0, -7]]]
+					"8" : ["Texture", "R/T/B/Bed/Old.file"],
+					"9" : ["Texture", "R/T/B/Bed/Old_Right.file", [["Move", 0, -7]]]
 				},
 				"8" : {
-					"9" : ["Texture", "R/T/B/Bed/Old_Front.png", [["Move", 0, -7]]]
+					"9" : ["Texture", "R/T/B/Bed/Old_Front.file", [["Move", 0, -7]]]
 				}
 			}	
 		],
@@ -67,7 +67,7 @@
 		],
 		"gui/items.png": [ "Atlas", {
 				"6" : {
-					"5" : ["Texture", "R/T/I/Repeater.png"]
+					"5" : ["Texture", "R/T/I/Redstone/Repeater.png"]
 				},
 				"13" : {
 					"2" : ["Texture", "R/T/I/Bed.png"]

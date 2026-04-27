@@ -52,7 +52,7 @@
 					"prismarine_rough.png" : ["Texture", "R/T/B/Prismarine/Default.png"],
 					"sea_lantern.png"      : ["Animation", ["Texture", "R/T/B/Prismarine/Lamp.png"], "Prismarine"],
 					
-					"red_sandstone_bottom.png": ["Texture", "R/T/B/Sandstone/Red/Default.png"],
+					"red_sandstone_bottom.png": ["Texture", "R/T/B/Sandstone/Red/Top.png"],
 					"red_sandstone_carved.png": ["Texture", "R/T/B/Sandstone/Red/Chiseled.png"],
 					"red_sandstone_normal.png": ["Texture", "R/T/B/Sandstone/Red/Default.png"],
 					"red_sandstone_smooth.png": ["Texture", "R/T/B/Sandstone/Red/Smooth.png"],

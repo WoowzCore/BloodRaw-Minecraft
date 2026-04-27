@@ -77,7 +77,7 @@
 		
 		"gui/items.png": [ "Atlas", {
 				"8" : {
-					"3" : ["Animation", ["Texture", "R/T/I/Redstone.png"], false],
+					"3" : ["Animation", ["Texture", "R/T/I/Redstone/Default.png"], false],
 					"6" : ["Texture", "R/T/I/Saddle.png"]
 				},
 				"12" : {
