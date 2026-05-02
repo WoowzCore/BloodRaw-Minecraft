@@ -1,0 +1,63 @@
+{
+	"ID"  : "HBM_1.12.2",
+	"Name": "HBM NTM Extended",
+	"Type": "Addon",
+	//"Dev" : false,
+	
+	"Mod": {
+		"Version": "3.0.3",
+		"Link"   : ["<[CurseForge]>hbms-nuclear-tech-mod-extended-edition/files/7234087"]
+	},
+	
+	"Core": ["Forge"],
+	
+	"Files": {
+		"assets/": {
+			"hbm/": {
+				"textures/": {
+					"blocks/": {
+						"ore_copper.png"   : ["Texture", "R/T/B/Copper/Ore.png"],
+						"ore_niter.png"    : ["Texture", "R/T/B/Niter/Ore.png"],
+						"ore_aluminium.png": ["Texture", "R/T/B/Aluminum/Ore.png"],
+						"ore_fluorite.png" : ["Texture", "R/T/B/Fluorite/Ore.png"],
+						"ore_lead.png"     : ["Texture", "R/T/B/Lead/Ore.png"],
+						"ore_beryllium.png": ["Texture", "R/T/B/Beryllium/Ore.png"],
+						"ore_lignite.png"  : ["Texture", "R/T/B/Lignite/Ore.png"],
+						"ore_cobalt.png"   : ["Texture", "R/T/B/Cobalt/Ore.png"],
+						"ore_cinnebar.png" : ["Texture", "R/T/B/Cinnabar/Ore.png"],
+						"ore_coltan.png"   : ["Texture", "R/T/B/Coltan/Ore.png"],
+						"ore_asbestos.png" : ["Texture", "R/T/B/Asbestos/Ore.png"],
+						"ore_rare.png"     : ["Texture", "R/T/B/Ore/Rare_Metal.png"],
+						"ore_titanium.png" : ["Texture", "R/T/B/Titanium/Ore.png"],
+						"ore_tungsten.png" : ["Texture", "R/T/B/Tungsten/Ore.png"],
+						"ore_uranium.png"  : ["Texture", "R/T/B/Uranium/Ore.png"],
+						"ore_sulfur.png"   : ["Texture", "R/T/B/Sulfur/Ore.png"],
+						
+						"stone_porous.png": ["Texture", "R/T/B/Stone/Porous.png"]
+					}
+				},
+				
+				"blockstates/": {
+					"ore_copper.json"    : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:ore_copper"]],
+					"ore_niter.json"     : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:ore_niter"]],
+					"ore_aluminium.json" : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:ore_aluminium"]],
+					"ore_fluorite.json"  : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:ore_fluorite"]],
+					"ore_lead.json"      : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:ore_lead"]],
+					"ore_beryllium.json" : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:ore_beryllium"]],
+					"ore_lignite.json"   : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:ore_lignite"]],
+					"ore_cobalt.json"    : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:ore_cobalt"]],
+					"ore_cinnebar.json"  : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:ore_cinnebar"]],
+					"ore_coltan.json"    : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:ore_coltan"]],
+					"ore_asbestos.json"  : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:ore_asbestos"]],
+					"ore_rare.json"      : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:ore_rare"]],
+					"ore_titanium.json"  : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:ore_titanium"]],
+					"ore_tungsten.json"  : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:ore_tungsten"]],
+					"ore_uranium.json"   : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:ore_uranium"]],
+					"ore_sulfur.json"    : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:ore_sulfur"]],
+
+					"stone_porous.json"  : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["hbm:stone_porous"]],
+				}
+			}
+		}
+	}
+}

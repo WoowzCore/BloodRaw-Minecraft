@@ -5,16 +5,17 @@
 	},
 	
 	"Text": {
-		"Version"   : "1.8.9",
+		"Version"   : "1.9.0",
 		"Name"      : "BloodRaw",
 		"Author"    : "Woowz11",
 		"License"   : "CC BY-NC-SA 4.0",
-		"GitHub"    : "https://github.com/Woowz11",
+		"MyGitHub"  : "https://github.com/Woowz11",
 		"Discord"   : "god_of_lithium_universe",
 		"Link"      : "https://woowz11.github.io/woowzsite/BloodRaw/Main",
 		"Generator" : "https://woowz11.github.io/woowzsite/BloodRaw/Generator",
 		
 		"CurseForge": "https://www.curseforge.com/minecraft/mc-mods/",
+		"GitHub"    : "https://github.com/",
 		
 		"S"     : "<[Custom More113 ? '' : 's']>",
 		"normal": "<[Custom More113 ? '' : 'normal']>",

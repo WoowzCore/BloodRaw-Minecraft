@@ -8,7 +8,7 @@
 	"Add": ["ResourcePack"],
 	
 	"Addon": {
-		"Mods": ["BetterFoliage_1.7.10"]
+		"Mods": ["HBM_1.7.10", "BetterFoliage_1.7.10"]
 	},
 	
 	"Files": {

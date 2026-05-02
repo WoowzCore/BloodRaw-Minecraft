@@ -13,7 +13,7 @@
 	"Files": {
 		"terrain.png": [ "Atlas", {
 				"1" : {
-					"1" : ["Texture", "R/T/B/Bedrock.png"]
+					"1" : ["Texture", "R/T/B/Bedrock/Default.png"]
 				},
 				"13" : {
 					"0" : ["Texture", "R/T/B/Liquid/Water_Single.file", [["Fixed", null, null, null, 255]]]

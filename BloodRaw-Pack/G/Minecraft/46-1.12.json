@@ -8,7 +8,8 @@
 	"Add": ["ResourcePack"],
 	
 	"Addon": {
-		"Optifine": ["Optifine-1.12"]
+		"Optifine": ["Optifine-1.12"],
+		"Mods": ["HBM_1.12.2"]
 	},
 	
 	"Files": {

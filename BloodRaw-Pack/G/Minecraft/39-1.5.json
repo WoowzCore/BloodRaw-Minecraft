@@ -56,11 +56,11 @@
 				"15": ["Texture", "R/T/B/Cauldron/Top.png"]
 			},
 			"13": {
-				"11": ["Texture", "R/T/B/Rail_Activator.png"],
-				"13": ["Texture", "R/T/B/Rail_Detector_On.png"]
+				"11": ["Texture", "R/T/B/Rail/Activator.png"],
+				"13": ["Texture", "R/T/B/Rail/Detector_On.png"]
 			},
 			"14": {
-				"11": ["Texture", "R/T/B/Rail_Activator_On.png"]
+				"11": ["Texture", "R/T/B/Rail/Activator_On.png"]
 			},
 			"15": {
 				"11": ["Texture", "R/T/B/Quartz_Ore_Nether.png"]
@@ -68,8 +68,8 @@
 		}],
 		
 		"textures/blocks/": {
-			"activatorRail.png"        : ["Texture", "R/T/B/Rail_Activator.png"],
-			"activatorRail_powered.png": ["Texture", "R/T/B/Rail_Activator_On.png"],
+			"activatorRail.png"        : ["Texture", "R/T/B/Rail/Activator.png"],
+			"activatorRail_powered.png": ["Texture", "R/T/B/Rail/Activator_On.png"],
 			
 			"anvil_base.png"         : ["Texture", "R/T/B/Anvil/Default.png"],
 			"anvil_top.png"          : ["Texture", "R/T/B/Anvil/Top.png"],
@@ -85,7 +85,7 @@
 			"bed_head_side.png": ["Texture", "R/T/B/Bed/Old/Side_Right.file"],
 			"bed_head_top.png" : ["Texture", "R/T/B/Bed/Old/Top_Front.file"],
 			
-			"bedrock.png" : ["Texture", "R/T/B/Bedrock.png"],
+			"bedrock.png" : ["Texture", "R/T/B/Bedrock/Default.png"],
 			
 			"blockDiamond.png"  : ["Texture", "R/T/B/Diamond/Default.png"],
 			"blockEmerald.png"  : ["Texture", "R/T/B/Emerald/Default.png"],
@@ -160,7 +160,7 @@
 			"daylightDetector_side.png": ["Texture", "R/T/B/Detector_Light/Default.png"],
 			"daylightDetector_top.png" : ["Texture", "R/T/B/Detector_Light/Day.png"],
 			
-			"deadbush.png": ["Texture", "R/T/B/Bush_Dead.png"],
+			"deadbush.png": ["Texture", "R/T/B/Bush/Dead.png"],
 			
 			"destroy_0.png": ["Texture", "R/T/B/Destroy/0.png"],
 			"destroy_1.png": ["Texture", "R/T/B/Destroy/1.png"],
@@ -173,10 +173,10 @@
 			"destroy_8.png": ["Texture", "R/T/B/Destroy/8.png"],
 			"destroy_9.png": ["Texture", "R/T/B/Destroy/9.png"],
 			
-			"detectorRail.png"   : ["Texture", "R/T/B/Rail_Detector.png"],
-			"detectorRail_on.png": ["Texture", "R/T/B/Rail_Detector_On.png"],
+			"detectorRail.png"   : ["Texture", "R/T/B/Rail/Detector.png"],
+			"detectorRail_on.png": ["Texture", "R/T/B/Rail/Detector_On.png"],
 			
-			"dirt.png": ["Texture", "R/T/B/Dirt.png"],
+			"dirt.png": ["Texture", "R/T/B/Dirt/Default.png"],
 			
 			"dispenser_front.png"         : ["Texture", "R/T/B/Dispenser.png"],
 			"dispenser_front_vertical.png": ["Texture", "R/T/B/Dispenser_Top.png"],
@@ -187,7 +187,7 @@
 			"doorWood_upper.png": ["Texture", "R/T/B/Door/Oak.png", [["Crop", 0, 0, 16, 16]]],
 			"doorWood_lower.png": ["Texture", "R/T/B/Door/Oak.png", [["Crop", 0, 16, 16, 16]]],
 			
-			"dragonEgg.png": ["Texture", "R/T/B/Egg_Dragon.png"],
+			"dragonEgg.png": ["Texture", "R/T/B/Egg/End.png"],
 			
 			"dropper_front.png"         : ["Texture", "R/T/B/Dropper.png"],
 			"dropper_front_vertical.png": ["Texture", "R/T/B/Dropper_Top.png"],
@@ -203,7 +203,7 @@
 			"farmland_dry.png": ["Texture", "R/T/B/Farmland/0.png"],
 			"farmland_wet.png": ["Texture", "R/T/B/Farmland/7.png"],
 			
-			"fenceIron.png": ["Texture", "R/T/B/Bars.png"],
+			"fenceIron.png": ["Texture", "R/T/B/Bars/Iron.png"],
 			
 			"fern.png": ["Texture", "R/T/B/Grass_Fern.png"],
 			
@@ -221,14 +221,14 @@
 			
 			"glass.png": ["Texture", "R/T/B/Glass/Default.file"],
 			
-			"goldenRail.png"        : ["Texture", "R/T/B/Rail_Accelerator.png"],
-			"goldenRail_powered.png": ["Texture", "R/T/B/Rail_Accelerator_On.png"],
+			"goldenRail.png"        : ["Texture", "R/T/B/Rail/Accelerator.png"],
+			"goldenRail_powered.png": ["Texture", "R/T/B/Rail/Accelerator_On.png"],
 			
 			"grass_side.png"        : ["Texture", "R/T/B/Grass/Dirt.file"],
 			"grass_side_overlay.png": ["Texture", "R/T/B/Grass/Dirt_Overlay.png"],
 			"grass_top.png"         : ["Texture", "R/T/B/Grass/Default.png"],
 			
-			"gravel.png": ["Texture", "R/T/B/Gravel.png"],
+			"gravel.png": ["Texture", "R/T/B/Gravel/Default.png"],
 			
 			"hellrock.png": ["Texture", "R/T/B/Nether/Default.png"],
 			"hellsand.png": ["Texture", "R/T/B/Soulsand.png"],
@@ -241,9 +241,9 @@
 			
 			"itemframe_back.png": ["Texture", "R/T/B/Frame.png"],
 			
-			"jukebox_top.png": ["Texture", "R/T/B/Jukebox.png"],
+			"jukebox_top.png": ["Texture", "R/T/B/Jukebox/Top.png"],
 			
-			"ladder.png": ["Texture", "R/T/B/Ladder.png"],
+			"ladder.png": ["Texture", "R/T/B/Ladder/Default.png"],
 			
 			"lava.png"     : ["Animation", ["Texture", "R/T/B/Liquid/Lava.png"], "Lava"],
 			"lava_flow.png": ["Animation", ["Texture", "R/T/B/Liquid/Lava_Flow.png"], "Lava_Flow"],
@@ -284,7 +284,7 @@
 			"netherStalk_1.png": ["Texture", "R/T/B/Wart/1.png"],
 			"netherStalk_2.png": ["Texture", "R/T/B/Wart/2.png"],
 			
-			"obsidian.png": ["Texture", "R/T/B/Obsidian.png"],
+			"obsidian.png": ["Texture", "R/T/B/Obsidian/Default.png"],
 			
 			"oreCoal.png"    : ["Texture", "R/T/B/Coal/Ore.png"],
 			"oreDiamond.png" : ["Texture", "R/T/B/Diamond/Ore.png"],
@@ -320,8 +320,8 @@
 			"quartzblock_side.png"        : ["Texture", "R/T/B/Quartz/Default.png"],
 			"quartzblock_top.png"         : ["Texture", "R/T/B/Quartz/Default.png"],
 			
-			"rail.png"     : ["Texture", "R/T/B/Rail.png"],
-			"rail_turn.png": ["Texture", "R/T/B/Rail_Corner.png"],
+			"rail.png"     : ["Texture", "R/T/B/Rail/Default.png"],
+			"rail_turn.png": ["Texture", "R/T/B/Rail/Default_Corner.png"],
 			
 			"redstoneDust_cross.png"        : ["Texture", "R/T/B/Redstone/Dust_Cross.file"],
 			"redstoneDust_cross_overlay.png": ["Texture", "R/T/B/Redstone/Dust_Overlay.png"],
@@ -334,7 +334,7 @@
 			"redtorch.png"    : ["Texture", "R/T/B/Torch/Redstone_Off.png"],
 			"redtorch_lit.png": ["Animation", ["Texture", "R/T/B/Torch/Redstone.png"], "Redstone"],
 			
-			"reeds.png": ["Texture", "R/T/B/Sugarcane.png"],
+			"reeds.png": ["Texture", "R/T/B/Sugarcane/Default.png"],
 			
 			"repeater.png"    : ["Texture", "R/T/B/Repeater.png"],
 			"repeater_lit.png": ["Texture", "R/T/B/Repeater_On.png"],
@@ -361,15 +361,15 @@
 			"stem_bent.png"    : ["Texture", "R/T/B/Pumpkin/Stem_Connect.png"],
 			"stem_straight.png": ["Texture", "R/T/B/Pumpkin/Stem.png"],
 			
-			"stone.png"                   : ["Texture", "R/T/B/Stone.png"],
-			"stonebrick.png"              : ["Texture", "R/T/B/Stone_Cobblestone.png"],
+			"stone.png"                   : ["Texture", "R/T/B/Stone/Default.png"],
+			"stonebrick.png"              : ["Texture", "R/T/B/Cobblestone/Default.png"],
 			"stonebricksmooth.png"        : ["Texture", "R/T/B/Bricks/Stone/Default.png"],
 			"stonebricksmooth_carved.png" : ["Texture", "R/T/B/Bricks/Stone/Chiseled.png"],
 			"stonebricksmooth_cracked.png": ["Texture", "R/T/B/Bricks/Stone/Crack.png"],
 			"stonebricksmooth_mossy.png"  : ["Texture", "R/T/B/Bricks/Stone/Moss.png"],
-			"stoneMoss.png"               : ["Texture", "R/T/B/Stone_Cobblestone_Moss.png"],
-			"stoneslab_side.png"          : ["Texture", "R/T/B/Stone_Slab_Side.png"],
-			"stoneslab_top.png"           : ["Texture", "R/T/B/Stone_Slab.png"],
+			"stoneMoss.png"               : ["Texture", "R/T/B/Cobblestone/Moss.png"],
+			"stoneslab_side.png"          : ["Texture", "R/T/B/Stone/Slab.png"],
+			"stoneslab_top.png"           : ["Texture", "R/T/B/Stone/Smooth.png"],
 			
 			"tallgrass.png": ["Texture", "R/T/B/Grass_Tall.png"],
 			

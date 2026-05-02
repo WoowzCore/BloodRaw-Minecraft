@@ -26,7 +26,7 @@
 					"11" : ["Animation", ["Texture", "R/T/B/Enchanting/Side.png"], false]
 				},
 				"7" : {
-					"10" : ["Texture", "R/T/B/Egg_Dragon.png"],
+					"10" : ["Texture", "R/T/B/Egg/End.png"],
 					"11" : ["Animation", ["Texture", "R/T/B/Enchanting/Bottom.png"], false]
 				},
 				"10" : {

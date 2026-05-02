@@ -23,7 +23,7 @@
 					"4" : ["Texture", "R/T/B/Clay.png"]
 				},
 				"9" : {
-					"4" : ["Texture", "R/T/B/Sugarcane.png"]
+					"4" : ["Texture", "R/T/B/Sugarcane/Default.png"]
 				}
 			}
 		],

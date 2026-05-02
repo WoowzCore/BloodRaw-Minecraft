@@ -172,8 +172,8 @@
 		"terrain.png": [ "Atlas", {
 				"0" : {
 					"5" : ["Animation", ["Texture", "R/T/B/Torch/Default.file"], false],
-					"7" : ["Texture", "R/T/B/Rail_Corner.png"],
-					"8" : ["Texture", "R/T/B/Rail.png"]
+					"7" : ["Texture", "R/T/B/Rail/Default_Corner.png"],
+					"8" : ["Texture", "R/T/B/Rail/Default.png"]
 				},
 				"1" : {
 					"5" : ["Texture", "R/T/B/Door/Oak.png"],
@@ -185,7 +185,7 @@
 					"6" : false
 				},
 				"3" : {
-					"5" : ["Texture", "R/T/B/Ladder.png"]
+					"5" : ["Texture", "R/T/B/Ladder/Default.png"]
 				},
 				"4" : {
 					"3" : ["Texture", "R/T/B/Leaves/Old.file"]

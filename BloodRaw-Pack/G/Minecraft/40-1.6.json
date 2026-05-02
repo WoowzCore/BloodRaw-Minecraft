@@ -182,7 +182,7 @@
 						"redstone_lamp_on.png" : ["Rename", "redstoneLight_lit.png"],
 						
 						"noteblock.png"   : ["Rename", "musicBlock.png"],
-						"jukebox_side.png": ["Texture", "R/T/B/Jukebox_Side.png"],
+						"jukebox_side.png": ["Texture", "R/T/B/Jukebox/Default.png"],
 						
 						"itemframe_background.png": ["Rename", "itemframe_back.png"],
 						

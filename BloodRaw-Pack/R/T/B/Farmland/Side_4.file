@@ -1,1 +1,1 @@
-["Texture", "R/T/B/Dirt.png", [["Put", ["Texture", "R/T/B/Farmland/Side_7.png", [["Fixed", null, null, null, 146]]]]]]
+["Variable", ["File", "R/T/B/Farmland/Side.var"], ["146"]]

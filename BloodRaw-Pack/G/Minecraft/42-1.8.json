@@ -32,7 +32,7 @@
 					"door_spruce_upper.png"  : ["Texture", "R/T/B/Door/Spruce.png", [["Crop", 0, 0, 16, 16]]],
 					"door_spruce_lower.png"  : ["Texture", "R/T/B/Door/Spruce.png", [["Crop", 0, 16, 16, 16]]],
 					
-					"coarse_dirt.png"     : ["Texture", "R/T/B/Dirt_Rocks.png"],
+					"coarse_dirt.png"     : ["Texture", "R/T/B/Dirt/Rocks.png"],
 					"dirt_podzol_top.png" : ["Texture", "R/T/B/Podzol/Default.png"],
 					"dirt_podzol_side.png": ["Texture", "R/T/B/Podzol/Dirt.png"],
 					

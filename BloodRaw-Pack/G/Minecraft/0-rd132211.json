@@ -17,7 +17,7 @@
 					"0" : ["Texture", "R/T/B/Grass/Default.file"]
 				},
 				"1" : {
-					"0" : ["Texture", "R/T/B/Stone.png"]
+					"0" : ["Texture", "R/T/B/Stone/Default.png"]
 				}
 			}
 		]
