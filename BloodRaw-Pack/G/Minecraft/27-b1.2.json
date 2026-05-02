@@ -11,8 +11,8 @@
 	"Files": {
 		"terrain.png": [ "Atlas", {
 				"0" : {
-					"9" : ["Texture", "R/T/B/Lapis.png"],
-					"10" : ["Texture", "R/T/B/Lapis_Ore.png"],
+					"9"  : ["Texture", "R/T/B/Lapis/Default.png"],
+					"10" : ["Texture", "R/T/B/Lapis/Ore.png"],
 					"11" : ["Texture", "R/T/B/Sandstone/Top.png"],
 					"12" : ["Texture", "R/T/B/Sandstone/Default.png"],
 					"13" : ["Texture", "R/T/B/Sandstone/Top.png"]
@@ -45,12 +45,12 @@
 					"8" : ["Texture", "R/T/B/Leaves/Spruce_Solid.file"]
 				},
 				"6" : {
-					"1" : ["Texture", "R/T/B/Iron.png"],
+					"1" : ["Texture", "R/T/B/Iron/Default.png"],
 					"2" : null,
 					"3" : null
 				},
 				"7" : {
-					"1" : ["Texture", "R/T/B/Gold.png"],
+					"1" : ["Texture", "R/T/B/Gold/Default.png"],
 					"2" : null,
 					"3" : null
 				},

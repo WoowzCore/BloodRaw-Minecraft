@@ -171,7 +171,7 @@
 		
 		"terrain.png": [ "Atlas", {
 				"0" : {
-					"5" : ["Animation", ["Texture", "R/T/B/Torch.file"], false],
+					"5" : ["Animation", ["Texture", "R/T/B/Torch/Default.file"], false],
 					"7" : ["Texture", "R/T/B/Rail_Corner.png"],
 					"8" : ["Texture", "R/T/B/Rail.png"]
 				},
@@ -180,7 +180,7 @@
 					"6" : false
 				},
 				"2" : {
-					"3" : ["Texture", "R/T/B/Diamond_Ore.png"],
+					"3" : ["Texture", "R/T/B/Diamond/Ore.png"],
 					"5" : ["Texture", "R/T/B/Door/Oak.png", [["Flip", true]]],
 					"6" : false
 				},
@@ -194,21 +194,21 @@
 					"3" : ["Texture", "R/T/B/Leaves/Old_Solid.file"]
 				},
 				"6" : {
-					"1" : ["Texture", "R/T/B/Iron_Top.png"],
-					"2" : ["Texture", "R/T/B/Iron.png"],
-					"3" : ["Texture", "R/T/B/Iron_Top.png"],
+					"1" : ["Texture", "R/T/B/Iron/Top.png"],
+					"2" : ["Texture", "R/T/B/Iron/Default.png"],
+					"3" : ["Texture", "R/T/B/Iron/Top.png"],
 					"5" : ["Texture", "R/T/B/Farmland/7.png"]
 				},
 				"7" : {
-					"1" : ["Texture", "R/T/B/Gold_Top.png"],
-					"2" : ["Texture", "R/T/B/Gold.png"],
-					"3" : ["Texture", "R/T/B/Gold_Top.png"],
+					"1" : ["Texture", "R/T/B/Gold/Top.png"],
+					"2" : ["Texture", "R/T/B/Gold/Default.png"],
+					"3" : ["Texture", "R/T/B/Gold/Top.png"],
 					"5" : ["Texture", "R/T/B/Farmland/0.png"]
 				},
 				"8" : {
-					"1" : ["Texture", "R/T/B/Diamond.png"],
-					"2" : ["Texture", "R/T/B/Diamond.png"],
-					"3" : ["Texture", "R/T/B/Diamond.png"],
+					"1" : ["Texture", "R/T/B/Diamond/Default.png"],
+					"2" : ["Texture", "R/T/B/Diamond/Default.png"],
+					"3" : ["Texture", "R/T/B/Diamond/Default.png"],
 					"5" : ["Texture", "R/T/B/Wheat/0.png"]
 				},
 				"9" : {

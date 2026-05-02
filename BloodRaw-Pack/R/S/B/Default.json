@@ -1,5 +1,5 @@
 {
 	"variants": {
-		"<[Custom More113 ? '' : 'normal']>": { "model": "<[Var1]>" }
+		"<[normal]>": { "model": "<[Var1]>" }
 	}
 }

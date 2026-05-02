@@ -27,20 +27,20 @@
 					"6" : false
 				},
 				"3" : {
-					"3" : ["Texture", "R/T/B/Redstone_Ore.png"],
-					"4" : ["Texture", "R/T/B/Ice.png"],
-					"6" : ["Animation", ["Texture", "R/T/B/Torch_Redstone.png"], false],
-					"7" : ["Texture", "R/T/B/Torch_Redstone_Off.png"]
+					"3" : ["Texture", "R/T/B/Redstone/Ore.png"],
+					"4" : ["Texture", "R/T/B/Ice/Default.png"],
+					"6" : ["Animation", ["Texture", "R/T/B/Torch/Redstone.png"], false],
+					"7" : ["Texture", "R/T/B/Torch/Redstone_Off.png"]
 				},
 				"4" : {
 					"4" : ["Texture", "R/T/B/Snow/Dirt.png"],
-					"5" : ["Texture", "R/T/B/Redstone_Dust_Cross_Off.file"],
-					"6" : ["Texture", "R/T/B/Redstone_Dust_Cross_On.file"]
+					"5" : ["Texture", "R/T/B/Redstone/Dust_Cross_Off.file"],
+					"6" : ["Texture", "R/T/B/Redstone/Dust_Cross_On.file"]
 				},
 				"5" : {
 					"4" : null,
-					"5" : ["Texture", "R/T/B/Redstone_Dust_Line_Off.file"],
-					"6" : ["Texture", "R/T/B/Redstone_Dust_Line_On.file"]
+					"5" : ["Texture", "R/T/B/Redstone/Dust_Line_Off.file"],
+					"6" : ["Texture", "R/T/B/Redstone/Dust_Line_On.file"]
 				},
 				"6" : {
 					"4" : null

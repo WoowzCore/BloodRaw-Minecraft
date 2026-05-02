@@ -75,7 +75,7 @@
 					"flower_tulip_white.png" : ["Texture", "R/T/B/Flower/Tulip_White.png"],
 					
 					"red_sand.png"  : ["Texture", "R/T/B/Sand/Red.png"],
-					"ice_packed.png": ["Texture", "R/T/B/Ice_Compress.png"],
+					"ice_packed.png": ["Texture", "R/T/B/Ice/Compress.png"],
 					
 					"leaves_acacia.png"        : ["Texture", "R/T/B/Leaves/Acacia.file"],
 					"leaves_acacia_opaque.png" : ["Texture", "R/T/B/Leaves/Acacia_Solid.file"],

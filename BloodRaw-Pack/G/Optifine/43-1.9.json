@@ -19,7 +19,35 @@
 			},
 			
 			"mcpatcher/": {
-				"color.properties": ["File", "R/O/Optifine/Colors.properties"]
+				"colormap/": {
+					"blocks/": {
+						"white.png": ["Create", 1, 1, "white"],
+						
+						"sugarcane.properties": ["Variable", ["File", "R/O/Optifine/Colormap/White.var"], ["minecraft:reeds"]]
+					},
+					
+					"sky0.png": ["Texture", "R/T/G/Colormap/Sky.png"],
+					"fog0.png": ["Texture", "R/T/G/Colormap/Fog.png"],
+					
+					"water.png"     : ["Texture", "R/T/G/Colormap/Water.png"],
+					"underwater.png": ["Texture", "R/T/G/Colormap/Water_Under.png"],
+					
+					"birch.png"       : ["Texture", "R/T/G/Colormap/Birch.png"],
+					"swampfoliage.png": ["Texture", "R/T/G/Colormap/Swamp_Foliage.png"],
+					"swampgrass.png"  : ["Texture", "R/T/G/Colormap/Swamp_Grass.png"],
+					"underlava.png"   : ["Texture", "R/T/G/Colormap/Lava_Under.png"],
+					
+					"durability.png" : ["Texture", "R/T/G/Optifine/Durability.png"],
+					"melonstem.png"  : ["Texture", "R/T/G/Optifine/Stem_Melon.png"],
+					"lavadrop.png"   : ["Texture", "R/T/G/Optifine/Drop_Lava.png"],
+					"pumpkinstem.png": ["Texture", "R/T/G/Optifine/Stem_Pumpkin.png"],
+					"redstone.png"   : ["Texture", "R/T/G/Optifine/Redstone.png"],
+					"xporb.png"      : ["Texture", "R/T/G/Optifine/XP.png"],
+					
+					"myceliumparticle.png": ["Texture", "R/T/B/Mycelium/Default.png"],
+				},
+				
+				"color.properties": ["File", "R/O/Optifine/Colors.properties"],
 			},
 			
 			"optifine/": {

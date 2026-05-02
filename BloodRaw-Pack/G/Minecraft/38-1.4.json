@@ -59,6 +59,7 @@
 		"mob/wither_invul.png"   : ["Texture", "R/T/E/Wither/Armor.png"],
 		"mob/zombie_villager.png": ["Texture", "R/T/E/Villager/Old/Zombie_Old.png"],
 		"mob/zombie.png"         : ["Texture", "R/T/E/Zombie/Default.png"],
+		"mob/pigzombie.png"      : ["Texture", "R/T/E/Pig/Zombie.png", [["NewSize", 64, 64]]],
 		
 		"mob/villager/witch.png": ["Texture", "R/T/E/Witch/Default.png"],
 		

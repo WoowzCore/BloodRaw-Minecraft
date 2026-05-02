@@ -22,12 +22,12 @@
 					"14" : ["Texture", "R/T/B/Wart/2.png"]
 				},
 				"6" : {
-					"10" : ["Animation", ["Texture", "R/T/B/Enchanting.png"], false],
-					"11" : ["Animation", ["Texture", "R/T/B/Enchanting_Side.png"], false]
+					"10" : ["Animation", ["Texture", "R/T/B/Enchanting/Default.png"], false],
+					"11" : ["Animation", ["Texture", "R/T/B/Enchanting/Side.png"], false]
 				},
 				"7" : {
 					"10" : ["Texture", "R/T/B/Egg_Dragon.png"],
-					"11" : ["Texture", "R/T/B/Enchanting_Bottom.png"]
+					"11" : ["Animation", ["Texture", "R/T/B/Enchanting/Bottom.png"], false]
 				},
 				"10" : {
 					"8" : ["Texture", "R/T/B/Cauldron/Top.png"],

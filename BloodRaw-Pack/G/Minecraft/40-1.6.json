@@ -28,7 +28,7 @@
 						"rail_detector.png"         : ["Rename", "detectorRail.png"],
 						"rail_detector_powered.png" : ["Rename", "detectorRail_on.png"],
 						
-						"coal_block.png"    : ["Texture", "R/T/B/Coal.png"],
+						"coal_block.png"    : ["Texture", "R/T/B/Coal/Default.png"],
 						"diamond_block.png" : ["Rename", "blockDiamond.png"],
 						"emerald_block.png" : ["Rename", "blockEmerald.png"],
 						"gold_block.png"    : ["Rename", "blockGold.png"],
@@ -112,6 +112,10 @@
 						"planks_birch.png" : ["Rename", "wood_birch.png"],
 						"planks_spruce.png": ["Rename", "wood_spruce.png"],
 						"planks_jungle.png": ["Rename", "wood_jungle.png"],
+						
+						"nether_wart_stage_0.png"   : ["Rename", "netherStalk_0.png"],
+						"nether_wart_stage_1.png"   : ["Rename", "netherStalk_1.png"],
+						"nether_wart_stage_2.png"   : ["Rename", "netherStalk_2.png"],
 						
 						"sapling_oak.png": ["Rename", "sapling.png"],
 						

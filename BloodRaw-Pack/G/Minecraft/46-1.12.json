@@ -12,134 +12,149 @@
 	},
 	
 	"Files": {
-		"assets/minecraft/textures/": {		
-			"gui/": {
-				"toasts.png": ["Texture", "R/T/U/Achievement_Toast.png"],
-				
-				"title/edition.png": ["Texture", "R/T/U/Logo_Lower.png"],
-				
-				"achievement/": null,
-				"advancements/": {
-					"backgrounds/": {
-						"adventure.png": [],
-						"end.png"      : [],
-						"husbandry.png": [],
-						"nether.png"   : [],
-						"stone.png"    : [],
+		"assets/minecraft/": {
+			"textures/": {	
+				"gui/": {
+					"toasts.png": ["Texture", "R/T/U/Achievement_Toast.png"],
+					
+					"title/edition.png": ["Texture", "R/T/U/Logo_Lower.png"],
+					
+					"achievement/": null,
+					"advancements/": {
+						"backgrounds/": {
+							"adventure.png": [],
+							"end.png"      : [],
+							"husbandry.png": [],
+							"nether.png"   : [],
+							"stone.png"    : [],
+						},
+						
+						"window.png" : ["Texture", "R/T/U/Achievement.png"],
+						"widgets.png": ["Texture", "R/T/U/Achievement_Widget.png"],
+						"tabs.png"   : ["Texture", "R/T/U/Achievement_Tab.png"],
 					},
 					
-					"window.png" : ["Texture", "R/T/U/Achievement.png"],
-					"widgets.png": ["Texture", "R/T/U/Achievement_Widget.png"],
-					"tabs.png"   : ["Texture", "R/T/U/Achievement_Tab.png"],
-				},
-				
-				"container/": {
-					"recipe_background.png": ["Texture", "R/T/U/Recipe.png"],
+					"container/": {
+						"recipe_background.png": ["Texture", "R/T/U/Recipe.png"],
+						
+						"inventory.png": ["Atlas", {
+							"178": {
+								"0" : ["Texture", "R/T/U/Recipe_Book_Button.png"],
+								"19": ["Texture", "R/T/U/Recipe_Book_Button_Hover.png"]
+							}
+						}],
+					},
 					
-					"inventory.png": ["Atlas", {
-						"178": {
-							"0" : ["Texture", "R/T/U/Recipe_Book_Button.png"],
-							"19": ["Texture", "R/T/U/Recipe_Book_Button_Hover.png"]
-						}
-					}],
+					"recipe_book.png": ["Texture", "R/T/U/Recipe_Book.png"]
 				},
 				
-				"recipe_book.png": ["Texture", "R/T/U/Recipe_Book.png"]
-			},
-			
-			"entity/": {
-				"parrot/": {
-					"parrot_blue.png"       : ["Texture", "R/T/E/Parrot/Blue.png"],
-					"parrot_green.png"      : ["Texture", "R/T/E/Parrot/Green.png"],
-					"parrot_grey.png"       : ["Texture", "R/T/E/Parrot/Gray.png"],
-					"parrot_red_blue.png"   : ["Texture", "R/T/E/Parrot/Red.png"],
-					"parrot_yellow_blue.png": ["Texture", "R/T/E/Parrot/Aqua.png"],
+				"entity/": {
+					"parrot/": {
+						"parrot_blue.png"       : ["Texture", "R/T/E/Parrot/Blue.png"],
+						"parrot_green.png"      : ["Texture", "R/T/E/Parrot/Green.png"],
+						"parrot_grey.png"       : ["Texture", "R/T/E/Parrot/Gray.png"],
+						"parrot_red_blue.png"   : ["Texture", "R/T/E/Parrot/Red.png"],
+						"parrot_yellow_blue.png": ["Texture", "R/T/E/Parrot/Aqua.png"],
+					},
+					
+					"bed/": {
+						"black.png"     : ["Texture", "R/T/B/Bed/New_Black.file"],
+						"blue.png"      : ["Texture", "R/T/B/Bed/New_Blue.file"],
+						"brown.png"     : ["Texture", "R/T/B/Bed/New_Brown.file"],
+						"cyan.png"      : ["Texture", "R/T/B/Bed/New_Cyan.file"],
+						"gray.png"      : ["Texture", "R/T/B/Bed/New_Gray.file"],
+						"green.png"     : ["Texture", "R/T/B/Bed/New_Green.file"],
+						"light_blue.png": ["Texture", "R/T/B/Bed/New_Aqua.file"],
+						"lime.png"      : ["Texture", "R/T/B/Bed/New_Lime.file"],
+						"magenta.png"   : ["Texture", "R/T/B/Bed/New_Magenta.file"],
+						"orange.png"    : ["Texture", "R/T/B/Bed/New_Orange.file"],
+						"pink.png"      : ["Texture", "R/T/B/Bed/New_Pink.file"],
+						"purple.png"    : ["Texture", "R/T/B/Bed/New_Purple.file"],
+						"red.png"       : ["Texture", "R/T/B/Bed/New_Red.file"],
+						"silver.png"    : ["Texture", "R/T/B/Bed/New_Silver.file"],
+						"white.png"     : ["Texture", "R/T/B/Bed/New_White.file"],
+						"yellow.png"    : ["Texture", "R/T/B/Bed/New_Yellow.file"],
+					},
+					
+					"illager/illusionist.png": ["Texture", "R/T/E/Illusionist/Default.png"]
 				},
 				
-				"bed/": {
-					"black.png"     : ["Texture", "R/T/B/Bed/New_Black.file"],
-					"blue.png"      : ["Texture", "R/T/B/Bed/New_Blue.file"],
-					"brown.png"     : ["Texture", "R/T/B/Bed/New_Brown.file"],
-					"cyan.png"      : ["Texture", "R/T/B/Bed/New_Cyan.file"],
-					"gray.png"      : ["Texture", "R/T/B/Bed/New_Gray.file"],
-					"green.png"     : ["Texture", "R/T/B/Bed/New_Green.file"],
-					"light_blue.png": ["Texture", "R/T/B/Bed/New_Aqua.file"],
-					"lime.png"      : ["Texture", "R/T/B/Bed/New_Lime.file"],
-					"magenta.png"   : ["Texture", "R/T/B/Bed/New_Magenta.file"],
-					"orange.png"    : ["Texture", "R/T/B/Bed/New_Orange.file"],
-					"pink.png"      : ["Texture", "R/T/B/Bed/New_Pink.file"],
-					"purple.png"    : ["Texture", "R/T/B/Bed/New_Purple.file"],
-					"red.png"       : ["Texture", "R/T/B/Bed/New_Red.file"],
-					"silver.png"    : ["Texture", "R/T/B/Bed/New_Silver.file"],
-					"white.png"     : ["Texture", "R/T/B/Bed/New_White.file"],
-					"yellow.png"    : ["Texture", "R/T/B/Bed/New_Yellow.file"],
+				"items/": {
+					"knowledge_book.png": []
 				},
 				
-				"illager/illusionist.png": ["Texture", "R/T/E/Illusionist/Default.png"]
+				"blocks/": {
+					"concrete_black.png"     : ["Texture", "R/T/B/Concrete/Black.file"],
+					"concrete_blue.png"      : ["Texture", "R/T/B/Concrete/Blue.file"],
+					"concrete_brown.png"     : ["Texture", "R/T/B/Concrete/Brown.file"],
+					"concrete_cyan.png"      : ["Texture", "R/T/B/Concrete/Cyan.file"],
+					"concrete_gray.png"      : ["Texture", "R/T/B/Concrete/Gray.file"],
+					"concrete_green.png"     : ["Texture", "R/T/B/Concrete/Green.file"],
+					"concrete_light_blue.png": ["Texture", "R/T/B/Concrete/Aqua.file"],
+					"concrete_lime.png"      : ["Texture", "R/T/B/Concrete/Lime.file"],
+					"concrete_magenta.png"   : ["Texture", "R/T/B/Concrete/Magenta.file"],
+					"concrete_orange.png"    : ["Texture", "R/T/B/Concrete/Orange.file"],
+					"concrete_pink.png"      : ["Texture", "R/T/B/Concrete/Pink.file"],
+					"concrete_purple.png"    : ["Texture", "R/T/B/Concrete/Purple.file"],
+					"concrete_red.png"       : ["Texture", "R/T/B/Concrete/Red.file"],
+					"concrete_silver.png"    : ["Texture", "R/T/B/Concrete/Silver.file"],
+					"concrete_white.png"     : ["Texture", "R/T/B/Concrete/White.file"],
+					"concrete_yellow.png"    : ["Texture", "R/T/B/Concrete/Yellow.file"],
+					
+					"concrete_powder_black.png"     : ["Texture", "R/T/B/Concrete/Powder/Black.file"],
+					"concrete_powder_blue.png"      : ["Texture", "R/T/B/Concrete/Powder/Blue.file"],
+					"concrete_powder_brown.png"     : ["Texture", "R/T/B/Concrete/Powder/Brown.file"],
+					"concrete_powder_cyan.png"      : ["Texture", "R/T/B/Concrete/Powder/Cyan.file"],
+					"concrete_powder_gray.png"      : ["Texture", "R/T/B/Concrete/Powder/Gray.file"],
+					"concrete_powder_green.png"     : ["Texture", "R/T/B/Concrete/Powder/Green.file"],
+					"concrete_powder_light_blue.png": ["Texture", "R/T/B/Concrete/Powder/Aqua.file"],
+					"concrete_powder_lime.png"      : ["Texture", "R/T/B/Concrete/Powder/Lime.file"],
+					"concrete_powder_magenta.png"   : ["Texture", "R/T/B/Concrete/Powder/Magenta.file"],
+					"concrete_powder_orange.png"    : ["Texture", "R/T/B/Concrete/Powder/Orange.file"],
+					"concrete_powder_pink.png"      : ["Texture", "R/T/B/Concrete/Powder/Pink.file"],
+					"concrete_powder_purple.png"    : ["Texture", "R/T/B/Concrete/Powder/Purple.file"],
+					"concrete_powder_red.png"       : ["Texture", "R/T/B/Concrete/Powder/Red.file"],
+					"concrete_powder_silver.png"    : ["Texture", "R/T/B/Concrete/Powder/Silver.file"],
+					"concrete_powder_white.png"     : ["Texture", "R/T/B/Concrete/Powder/White.file"],
+					"concrete_powder_yellow.png"    : ["Texture", "R/T/B/Concrete/Powder/Yellow.file"],
+					
+					"glazed_terracotta_black.png"     : [],
+					"glazed_terracotta_blue.png"      : [],
+					"glazed_terracotta_brown.png"     : [],
+					"glazed_terracotta_cyan.png"      : [],
+					"glazed_terracotta_gray.png"      : [],
+					"glazed_terracotta_green.png"     : [],
+					"glazed_terracotta_light_blue.png": [],
+					"glazed_terracotta_lime.png"      : [],
+					"glazed_terracotta_magenta.png"   : [],
+					"glazed_terracotta_orange.png"    : [],
+					"glazed_terracotta_pink.png"      : [],
+					"glazed_terracotta_purple.png"    : [],
+					"glazed_terracotta_red.png"       : [],
+					"glazed_terracotta_silver.png"    : [],
+					"glazed_terracotta_white.png"     : [],
+					"glazed_terracotta_yellow.png"    : [],
+					
+					"bed_feet_end.png"             : null,
+					"bed_feet_side.png"            : null,
+					"bed_feet_top.png"             : null,
+					"bed_head_end.png"             : null,
+					"bed_head_side.png"            : null,
+					"bed_head_top.png"             : null,
+					"bloodraw/bed_feet_bottom.png" : null,
+					"bloodraw/bed_head_bottom.png" : null,
+				}
 			},
 			
-			"items/": {
-				"knowledge_book.png": []
-			},
-			
-			"blocks/": {
-				"concrete_black.png"     : ["Texture", "R/T/B/Concrete/Black.file"],
-				"concrete_blue.png"      : ["Texture", "R/T/B/Concrete/Blue.file"],
-				"concrete_brown.png"     : ["Texture", "R/T/B/Concrete/Brown.file"],
-				"concrete_cyan.png"      : ["Texture", "R/T/B/Concrete/Cyan.file"],
-				"concrete_gray.png"      : ["Texture", "R/T/B/Concrete/Gray.file"],
-				"concrete_green.png"     : ["Texture", "R/T/B/Concrete/Green.file"],
-				"concrete_light_blue.png": ["Texture", "R/T/B/Concrete/Aqua.file"],
-				"concrete_lime.png"      : ["Texture", "R/T/B/Concrete/Lime.file"],
-				"concrete_magenta.png"   : ["Texture", "R/T/B/Concrete/Magenta.file"],
-				"concrete_orange.png"    : ["Texture", "R/T/B/Concrete/Orange.file"],
-				"concrete_pink.png"      : ["Texture", "R/T/B/Concrete/Pink.file"],
-				"concrete_purple.png"    : ["Texture", "R/T/B/Concrete/Purple.file"],
-				"concrete_red.png"       : ["Texture", "R/T/B/Concrete/Red.file"],
-				"concrete_silver.png"    : ["Texture", "R/T/B/Concrete/Silver.file"],
-				"concrete_white.png"     : ["Texture", "R/T/B/Concrete/White.file"],
-				"concrete_yellow.png"    : ["Texture", "R/T/B/Concrete/Yellow.file"],
+			"models/": {
+				"block/": {
+					"bed_foot.json": null,
+					"bed_head.json": null
+				},
 				
-				"concrete_powder_black.png"     : ["Texture", "R/T/B/Concrete/Powder/Black.file"],
-				"concrete_powder_blue.png"      : ["Texture", "R/T/B/Concrete/Powder/Blue.file"],
-				"concrete_powder_brown.png"     : ["Texture", "R/T/B/Concrete/Powder/Brown.file"],
-				"concrete_powder_cyan.png"      : ["Texture", "R/T/B/Concrete/Powder/Cyan.file"],
-				"concrete_powder_gray.png"      : ["Texture", "R/T/B/Concrete/Powder/Gray.file"],
-				"concrete_powder_green.png"     : ["Texture", "R/T/B/Concrete/Powder/Green.file"],
-				"concrete_powder_light_blue.png": ["Texture", "R/T/B/Concrete/Powder/Aqua.file"],
-				"concrete_powder_lime.png"      : ["Texture", "R/T/B/Concrete/Powder/Lime.file"],
-				"concrete_powder_magenta.png"   : ["Texture", "R/T/B/Concrete/Powder/Magenta.file"],
-				"concrete_powder_orange.png"    : ["Texture", "R/T/B/Concrete/Powder/Orange.file"],
-				"concrete_powder_pink.png"      : ["Texture", "R/T/B/Concrete/Powder/Pink.file"],
-				"concrete_powder_purple.png"    : ["Texture", "R/T/B/Concrete/Powder/Purple.file"],
-				"concrete_powder_red.png"       : ["Texture", "R/T/B/Concrete/Powder/Red.file"],
-				"concrete_powder_silver.png"    : ["Texture", "R/T/B/Concrete/Powder/Silver.file"],
-				"concrete_powder_white.png"     : ["Texture", "R/T/B/Concrete/Powder/White.file"],
-				"concrete_powder_yellow.png"    : ["Texture", "R/T/B/Concrete/Powder/Yellow.file"],
-				
-				"glazed_terracotta_black.png"     : [],
-				"glazed_terracotta_blue.png"      : [],
-				"glazed_terracotta_brown.png"     : [],
-				"glazed_terracotta_cyan.png"      : [],
-				"glazed_terracotta_gray.png"      : [],
-				"glazed_terracotta_green.png"     : [],
-				"glazed_terracotta_light_blue.png": [],
-				"glazed_terracotta_lime.png"      : [],
-				"glazed_terracotta_magenta.png"   : [],
-				"glazed_terracotta_orange.png"    : [],
-				"glazed_terracotta_pink.png"      : [],
-				"glazed_terracotta_purple.png"    : [],
-				"glazed_terracotta_red.png"       : [],
-				"glazed_terracotta_silver.png"    : [],
-				"glazed_terracotta_white.png"     : [],
-				"glazed_terracotta_yellow.png"    : [],
-				
-				"bed_feet_end.png" : null,
-				"bed_feet_side.png": null,
-				"bed_feet_top.png" : null,
-				"bed_head_end.png" : null,
-				"bed_head_side.png": null,
-				"bed_head_top.png" : null,
+				"item/": {
+					"bed.json": null
+				}
 			}
 		}
 	}

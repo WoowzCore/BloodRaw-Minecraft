@@ -14,20 +14,20 @@
 		
 		"terrain.png": [ "Atlas", {
 				"0" : {
-					"2" : ["Texture", "R/T/B/Gold_Ore.png"],
+					"2" : ["Texture", "R/T/B/Gold/Ore.png"],
 					"3" : ["Texture", "R/T/B/Sponge/Default.png"],
 					"4" : ["Texture", "R/T/B/Wool/White.file", [["Multiply", "#FE3939"]]],
 					"15" : ["Texture", "R/T/B/Destroy/0.png", [["Background", "#7F7F7F"]]]
 				},
 				"1" : {
-					"2" : ["Texture", "R/T/B/Iron_Ore.png"],
+					"2" : ["Texture", "R/T/B/Iron/Ore.png"],
 					"3" : ["Texture", "R/T/B/Glass/Default.file"],
 					"4" : ["Texture", "R/T/B/Wool/White.file", [["Multiply", "#FE9B39"]]],
 					"15" : ["Texture", "R/T/B/Destroy/1.png", [["Background", "#7F7F7F"]]]
 				},
 				"2" : {
 					"1" : ["Texture", "R/T/B/Sand/Default.png"],
-					"2" : ["Texture", "R/T/B/Coal_Ore.png"],
+					"2" : ["Texture", "R/T/B/Coal/Ore.png"],
 					"4" : ["Texture", "R/T/B/Wool/White.file", [["Multiply", "#FEFE39"]]],
 					"15" : ["Texture", "R/T/B/Destroy/2.png", [["Background", "#7F7F7F"]]]
 				},
@@ -57,18 +57,18 @@
 					"15" : ["Texture", "R/T/B/Destroy/6.png", [["Background", "#7F7F7F"]]]
 				},
 				"7" : {
-					"0" : ["Texture", "R/T/B/Bricks/Default.png"],
-					"1" : ["Texture", "R/T/B/Iron_Top.png"],
-					"2" : ["Texture", "R/T/B/Iron.png"],
-					"3" : ["Texture", "R/T/B/Iron_Top.png"],
+					"0" : ["Texture", "R/T/B/Bricks/Terracota/Default.png"],
+					"1" : ["Texture", "R/T/B/Iron/Top.png"],
+					"2" : ["Texture", "R/T/B/Iron/Default.png"],
+					"3" : ["Texture", "R/T/B/Iron/Top.png"],
 					"4" : ["Texture", "R/T/B/Wool/White.file", [["Multiply", "#78BAFE"]]],
 					"15" : ["Texture", "R/T/B/Destroy/7.png", [["Background", "#7F7F7F"]]]
 				},
 				"8" : {
 					"0" : ["Texture", "R/T/B/Dynamite/Default.png"],
-					"1" : ["Texture", "R/T/B/Gold_Top.png"],
-					"2" : ["Texture", "R/T/B/Gold.png"],
-					"3" : ["Texture", "R/T/B/Gold_Top.png"],
+					"1" : ["Texture", "R/T/B/Gold/Top.png"],
+					"2" : ["Texture", "R/T/B/Gold/Default.png"],
+					"3" : ["Texture", "R/T/B/Gold/Top.png"],
 					"4" : ["Texture", "R/T/B/Wool/White.file", [["Multiply", "#8A8AFE"]]],
 					"15" : ["Texture", "R/T/B/Destroy/8.png", [["Background", "#7F7F7F"]]]
 				},

@@ -13,7 +13,7 @@
 				"10": ["Texture", "R/T/B/Cocoa/2.png"]
 			},
 			"9": {
-				"1" : ["Texture", "R/T/B/Emerald.png"],
+				"1" : ["Texture", "R/T/B/Emerald/Default.png"],
 				"2" : null,
 				"3" : null,
 				"10": ["Texture", "R/T/B/Cocoa/1.png"]
@@ -26,7 +26,7 @@
 			},
 			"11": {
 				"1" : null,
-				"10": ["Texture", "R/T/B/Emerald_Ore.png"]
+				"10": ["Texture", "R/T/B/Emerald/Ore.png"]
 			},
 			"12": {
 				"10": ["Texture", "R/T/B/Trap.png"]

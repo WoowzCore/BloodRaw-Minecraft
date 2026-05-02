@@ -1,0 +1,9 @@
+{
+	"parent": "block/bloodraw/bed_back",
+	"textures": {
+		"top"     : "<[Var1]>",
+		"bottom"  : "<[Var2]>",
+		"end"     : "<[Var3]>",
+		"side"    : "<[Var4]>"
+	}
+}

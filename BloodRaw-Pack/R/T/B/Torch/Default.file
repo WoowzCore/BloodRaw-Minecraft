@@ -1,0 +1,1 @@
+["Texture", "R/T/B/Torch/Default_Off.png", [["Tile", null, 8], ["Put", ["Texture", "R/T/B/Torch/Default.png", [["Gradient", ["Texture", "R/T/G/Fire.png"]]]]]]]
