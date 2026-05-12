@@ -65,8 +65,8 @@
 		
 		"misc/beam.png": ["Texture", "R/T/P/Beam_Beacon.png"],
 		
-		"item/xmaschest.png"     : ["Texture", "R/T/E/Chest/Xmas.png"],
-		"item/largexmaschest.png": ["Texture", "R/T/E/Chest/Xmas_Double.png"],
+		"item/xmaschest.png"     : ["Texture", "R/T/E/Chest/Xmas/Default.png"],
+		"item/largexmaschest.png": ["Texture", "R/T/E/Chest/Xmas/Default_Double.png"],
 		
 		"armor/witherarmor.png": ["Texture", "R/T/E/Wither/Charge.png"],
 		

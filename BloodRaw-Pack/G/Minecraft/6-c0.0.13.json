@@ -14,6 +14,6 @@
 		"dirt.png" : [ "Texture", "R/T/B/Dirt/Default.png" ],
 		"grass.png": [ "Texture", "R/T/B/Grass/Default.file" ],
 		"rock.png" : [ "Texture", "R/T/B/Bedrock/Default.png" ],
-		"water.png": [ "Texture", "R/T/B/Liquid/Water_Single.file" ]
+		"water.png": [ "Texture", "R/T/B/Liquid/Water/Single.file" ]
 	}
 }

@@ -16,11 +16,11 @@
 					"1" : ["Texture", "R/T/B/Bedrock/Default.png"]
 				},
 				"13" : {
-					"0" : ["Texture", "R/T/B/Liquid/Water_Single.file", [["Fixed", null, null, null, 255]]]
+					"0" : ["Texture", "R/T/B/Liquid/Water/Single.file", [["Fixed", null, null, null, 255]]]
 				},
 				"14" : {
-					"0" : ["Texture", "R/T/B/Liquid/Water_Single.file"],
-					"1" : ["Animation", ["Texture", "R/T/B/Liquid/Lava.png"], false]
+					"0" : ["Texture", "R/T/B/Liquid/Water/Single.file"],
+					"1" : ["Animation", ["Texture", "R/T/B/Liquid/Lava/Default.png"], false]
 				}
 			}
 		],

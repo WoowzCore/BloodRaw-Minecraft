@@ -20,7 +20,7 @@
 					"4" : ["Texture", "R/T/B/Cactus/Bottom.png"]
 				},
 				"8" : {
-					"4" : ["Texture", "R/T/B/Clay.png"]
+					"4" : ["Texture", "R/T/B/Clay/Default.png"]
 				},
 				"9" : {
 					"4" : ["Texture", "R/T/B/Sugarcane/Default.png"]

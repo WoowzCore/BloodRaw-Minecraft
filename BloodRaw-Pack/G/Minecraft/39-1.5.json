@@ -120,7 +120,7 @@
 			"cauldron_side.png"  : ["Texture", "R/T/B/Cauldron/Side.png"],
 			"cauldron_top.png"   : ["Texture", "R/T/B/Cauldron/Top.png"],
 			
-			"clay.png"    : ["Texture", "R/T/B/Clay.png"],
+			"clay.png"    : ["Texture", "R/T/B/Clay/Default.png"],
 			
 			"cloth_0.png"    : ["Texture", "R/T/B/Wool/White.file"],
 			"cloth_1.png"    : ["Texture", "R/T/B/Wool/Orange.file"],
@@ -245,8 +245,8 @@
 			
 			"ladder.png": ["Texture", "R/T/B/Ladder/Default.png"],
 			
-			"lava.png"     : ["Animation", ["Texture", "R/T/B/Liquid/Lava.png"], "Lava"],
-			"lava_flow.png": ["Animation", ["Texture", "R/T/B/Liquid/Lava_Flow.png"], "Lava_Flow"],
+			"lava.png"     : ["Animation", ["Texture", "R/T/B/Liquid/Lava/Default.png"], "Lava"],
+			"lava_flow.png": ["Animation", ["Texture", "R/T/B/Liquid/Lava/Flow.png"], "Lava_Flow"],
 			
 			"leaves.png"              : ["Texture", "R/T/B/Leaves/Oak.file"],
 			"leaves_jungle.png"       : ["Texture", "R/T/B/Leaves/Jungle.file"],
@@ -394,8 +394,8 @@
 			
 			"vine.png": ["Texture", "R/T/B/Vines.png"],
 			
-			"water.png"     : ["Animation", ["Texture", "R/T/B/Liquid/Water.file"], "Water"],
-			"water_flow.png": ["Animation", ["Texture", "R/T/B/Liquid/Water_Flow.file"], "Water_Flow"],
+			"water.png"     : ["Animation", ["Texture", "R/T/B/Liquid/Water/Default.file"], "Water"],
+			"water_flow.png": ["Animation", ["Texture", "R/T/B/Liquid/Water/Flow.file"], "Water_Flow"],
 			
 			"waterlily.png": ["Texture", "R/T/B/Lily.png"],
 			

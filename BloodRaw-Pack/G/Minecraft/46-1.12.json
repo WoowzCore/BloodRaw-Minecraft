@@ -156,6 +156,41 @@
 				"item/": {
 					"bed.json": null
 				}
+			},
+			
+			"blockstates/": {
+				"white_concrete.json"                  : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/white_concrete"]],
+				"orange_concrete.json"                 : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/orange_concrete"]],
+				"magenta_concrete.json"                : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/magenta_concrete"]],
+				"light_blue_concrete.json"             : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/light_blue_concrete"]],
+				"yellow_concrete.json"                 : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/yellow_concrete"]],
+				"lime_concrete.json"                   : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/lime_concrete"]],
+				"pink_concrete.json"                   : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/pink_concrete"]],
+				"gray_concrete.json"                   : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/gray_concrete"]],
+				"silver_concrete.json"                 : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/silver_concrete"]],
+				"cyan_concrete.json"                   : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/cyan_concrete"]],
+				"purple_concrete.json"                 : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/purple_concrete"]],
+				"blue_concrete.json"                   : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/blue_concrete"]],
+				"brown_concrete.json"                  : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/brown_concrete"]],
+				"green_concrete.json"                  : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/green_concrete"]],
+				"red_concrete.json"                    : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/red_concrete"]],
+				"black_concrete.json"                  : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/black_concrete"]],
+				"white_concrete_powder.json"           : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/white_concrete_powder"]],
+				"orange_concrete_powder.json"          : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/orange_concrete_powder"]],
+				"magenta_concrete_powder.json"         : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/magenta_concrete_powder"]],
+				"light_blue_concrete_powder.json"      : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/light_blue_concrete_powder"]],
+				"yellow_concrete_powder.json"          : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/yellow_concrete_powder"]],
+				"lime_concrete_powder.json"            : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/lime_concrete_powder"]],
+				"pink_concrete_powder.json"            : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/pink_concrete_powder"]],
+				"gray_concrete_powder.json"            : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/gray_concrete_powder"]],
+				"silver_concrete_powder.json"          : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/silver_concrete_powder"]],
+				"cyan_concrete_powder.json"            : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/cyan_concrete_powder"]],
+				"purple_concrete_powder.json"          : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/purple_concrete_powder"]],
+				"blue_concrete_powder.json"            : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/blue_concrete_powder"]],
+				"brown_concrete_powder.json"           : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/brown_concrete_powder"]],
+				"green_concrete_powder.json"           : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/green_concrete_powder"]],
+				"red_concrete_powder.json"             : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/red_concrete_powder"]],
+				"black_concrete_powder.json"           : ["Variable", ["File", "R/S/B/Random_Rotations_All.json"], ["block/black_concrete_powder"]],
 			}
 		}
 	}

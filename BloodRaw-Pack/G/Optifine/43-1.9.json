@@ -47,7 +47,21 @@
 					"myceliumparticle.png": ["Texture", "R/T/B/Mycelium/Default.png"],
 				},
 				
-				"color.properties": ["File", "R/O/Optifine/Colors.properties"],
+				"lightmap/": {
+					"world0.png" : ["Texture", "R/T/G/Light/Overworld.png"],
+					"world-1.png": ["Texture", "R/T/G/Light/Nether.png"],
+					"world1.png" : ["Texture", "R/T/G/Light/End.png"],
+				},
+				
+				"sky/": {
+					"world0/": {
+						"milkyway.png"   : ["Texture", "R/O/Optifine/Sky/Overworld/Milkyway.png"],
+						"sky1.properties": ["File"   , "R/O/Optifine/Sky/Overworld/Sky.properties"],
+					}
+				},
+				
+				"color.properties"   : ["File", "R/O/Optifine/Colors.properties"],
+				"emissive.properties": ["File", "R/O/Optifine/Emissive.properties"],
 			},
 			
 			"optifine/": {
